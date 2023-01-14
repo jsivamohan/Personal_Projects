@@ -1,0 +1,2652 @@
+Hand is: 0 clubs 1 clubs
+ ratio: 0.352197
+Hand is: 0 clubs 2 clubs
+ ratio: 0.363429
+Hand is: 0 clubs 3 clubs
+ ratio: 0.377938
+Hand is: 0 clubs 4 clubs
+ ratio: 0.393776
+Hand is: 0 clubs 5 clubs
+ ratio: 0.400524
+Hand is: 0 clubs 6 clubs
+ ratio: 0.422585
+Hand is: 0 clubs 7 clubs
+ ratio: 0.443124
+Hand is: 0 clubs 8 clubs
+ ratio: 0.466569
+Hand is: 0 clubs 9 clubs
+ ratio: 0.491106
+Hand is: 0 clubs 10 clubs
+ ratio: 0.519452
+Hand is: 0 clubs 11 clubs
+ ratio: 0.548914
+Hand is: 0 clubs 12 clubs
+ ratio: 0.582579
+Hand is: 0 clubs 0 spades
+ ratio: 0.515027
+Hand is: 0 clubs 1 spades
+ ratio: 0.313589
+Hand is: 0 clubs 2 spades
+ ratio: 0.326162
+Hand is: 0 clubs 3 spades
+ ratio: 0.342026
+Hand is: 0 clubs 4 spades
+ ratio: 0.359389
+Hand is: 0 clubs 5 spades
+ ratio: 0.365307
+Hand is: 0 clubs 6 spades
+ ratio: 0.38861
+Hand is: 0 clubs 7 spades
+ ratio: 0.410926
+Hand is: 0 clubs 8 spades
+ ratio: 0.435156
+Hand is: 0 clubs 9 spades
+ ratio: 0.461158
+Hand is: 0 clubs 10 spades
+ ratio: 0.490313
+Hand is: 0 clubs 11 spades
+ ratio: 0.522866
+Hand is: 0 clubs 12 spades
+ ratio: 0.558606
+Hand is: 0 clubs 0 hearts
+ ratio: 0.5158
+Hand is: 0 clubs 1 hearts
+ ratio: 0.314213
+Hand is: 0 clubs 2 hearts
+ ratio: 0.326497
+Hand is: 0 clubs 3 hearts
+ ratio: 0.340848
+Hand is: 0 clubs 4 hearts
+ ratio: 0.359254
+Hand is: 0 clubs 5 hearts
+ ratio: 0.364551
+Hand is: 0 clubs 6 hearts
+ ratio: 0.388703
+Hand is: 0 clubs 7 hearts
+ ratio: 0.411175
+Hand is: 0 clubs 8 hearts
+ ratio: 0.435735
+Hand is: 0 clubs 9 hearts
+ ratio: 0.461244
+Hand is: 0 clubs 10 hearts
+ ratio: 0.491584
+Hand is: 0 clubs 11 hearts
+ ratio: 0.523181
+Hand is: 0 clubs 12 hearts
+ ratio: 0.558438
+Hand is: 0 clubs 0 diamonds
+ ratio: 0.516182
+Hand is: 0 clubs 1 diamonds
+ ratio: 0.313367
+Hand is: 0 clubs 2 diamonds
+ ratio: 0.326438
+Hand is: 0 clubs 3 diamonds
+ ratio: 0.341246
+Hand is: 0 clubs 4 diamonds
+ ratio: 0.358689
+Hand is: 0 clubs 5 diamonds
+ ratio: 0.366145
+Hand is: 0 clubs 6 diamonds
+ ratio: 0.387366
+Hand is: 0 clubs 7 diamonds
+ ratio: 0.411736
+Hand is: 0 clubs 8 diamonds
+ ratio: 0.436427
+Hand is: 0 clubs 9 diamonds
+ ratio: 0.462615
+Hand is: 0 clubs 10 diamonds
+ ratio: 0.491174
+Hand is: 0 clubs 11 diamonds
+ ratio: 0.522929
+Hand is: 0 clubs 12 diamonds
+ ratio: 0.558323
+Hand is: 1 clubs 2 clubs
+ ratio: 0.377798
+Hand is: 1 clubs 3 clubs
+ ratio: 0.39251
+Hand is: 1 clubs 4 clubs
+ ratio: 0.409723
+Hand is: 1 clubs 5 clubs
+ ratio: 0.416256
+Hand is: 1 clubs 6 clubs
+ ratio: 0.427772
+Hand is: 1 clubs 7 clubs
+ ratio: 0.451705
+Hand is: 1 clubs 8 clubs
+ ratio: 0.474817
+Hand is: 1 clubs 9 clubs
+ ratio: 0.498413
+Hand is: 1 clubs 10 clubs
+ ratio: 0.527361
+Hand is: 1 clubs 11 clubs
+ ratio: 0.557507
+Hand is: 1 clubs 12 clubs
+ ratio: 0.590893
+Hand is: 1 clubs 0 spades
+ ratio: 0.313899
+Hand is: 1 clubs 1 spades
+ ratio: 0.546642
+Hand is: 1 clubs 2 spades
+ ratio: 0.342903
+Hand is: 1 clubs 3 spades
+ ratio: 0.358028
+Hand is: 1 clubs 4 spades
+ ratio: 0.374838
+Hand is: 1 clubs 5 spades
+ ratio: 0.382817
+Hand is: 1 clubs 6 spades
+ ratio: 0.395306
+Hand is: 1 clubs 7 spades
+ ratio: 0.419873
+Hand is: 1 clubs 8 spades
+ ratio: 0.444436
+Hand is: 1 clubs 9 spades
+ ratio: 0.471198
+Hand is: 1 clubs 10 spades
+ ratio: 0.500244
+Hand is: 1 clubs 11 spades
+ ratio: 0.532248
+Hand is: 1 clubs 12 spades
+ ratio: 0.567033
+Hand is: 1 clubs 0 hearts
+ ratio: 0.314078
+Hand is: 1 clubs 1 hearts
+ ratio: 0.546951
+Hand is: 1 clubs 2 hearts
+ ratio: 0.343195
+Hand is: 1 clubs 3 hearts
+ ratio: 0.357946
+Hand is: 1 clubs 4 hearts
+ ratio: 0.375882
+Hand is: 1 clubs 5 hearts
+ ratio: 0.383388
+Hand is: 1 clubs 6 hearts
+ ratio: 0.395177
+Hand is: 1 clubs 7 hearts
+ ratio: 0.420063
+Hand is: 1 clubs 8 hearts
+ ratio: 0.444058
+Hand is: 1 clubs 9 hearts
+ ratio: 0.470956
+Hand is: 1 clubs 10 hearts
+ ratio: 0.4992
+Hand is: 1 clubs 11 hearts
+ ratio: 0.531994
+Hand is: 1 clubs 12 hearts
+ ratio: 0.566891
+Hand is: 1 clubs 0 diamonds
+ ratio: 0.314541
+Hand is: 1 clubs 1 diamonds
+ ratio: 0.547068
+Hand is: 1 clubs 2 diamonds
+ ratio: 0.342756
+Hand is: 1 clubs 3 diamonds
+ ratio: 0.358285
+Hand is: 1 clubs 4 diamonds
+ ratio: 0.374487
+Hand is: 1 clubs 5 diamonds
+ ratio: 0.38185
+Hand is: 1 clubs 6 diamonds
+ ratio: 0.395658
+Hand is: 1 clubs 7 diamonds
+ ratio: 0.41906
+Hand is: 1 clubs 8 diamonds
+ ratio: 0.444898
+Hand is: 1 clubs 9 diamonds
+ ratio: 0.46991
+Hand is: 1 clubs 10 diamonds
+ ratio: 0.49904
+Hand is: 1 clubs 11 diamonds
+ ratio: 0.531701
+Hand is: 1 clubs 12 diamonds
+ ratio: 0.565975
+Hand is: 2 clubs 3 clubs
+ ratio: 0.408473
+Hand is: 2 clubs 4 clubs
+ ratio: 0.425827
+Hand is: 2 clubs 5 clubs
+ ratio: 0.432317
+Hand is: 2 clubs 6 clubs
+ ratio: 0.444388
+Hand is: 2 clubs 7 clubs
+ ratio: 0.458002
+Hand is: 2 clubs 8 clubs
+ ratio: 0.484073
+Hand is: 2 clubs 9 clubs
+ ratio: 0.508573
+Hand is: 2 clubs 10 clubs
+ ratio: 0.536562
+Hand is: 2 clubs 11 clubs
+ ratio: 0.567306
+Hand is: 2 clubs 12 clubs
+ ratio: 0.598986
+Hand is: 2 clubs 0 spades
+ ratio: 0.326752
+Hand is: 2 clubs 1 spades
+ ratio: 0.342833
+Hand is: 2 clubs 2 spades
+ ratio: 0.576827
+Hand is: 2 clubs 3 spades
+ ratio: 0.374925
+Hand is: 2 clubs 4 spades
+ ratio: 0.391934
+Hand is: 2 clubs 5 spades
+ ratio: 0.399646
+Hand is: 2 clubs 6 spades
+ ratio: 0.412564
+Hand is: 2 clubs 7 spades
+ ratio: 0.426731
+Hand is: 2 clubs 8 spades
+ ratio: 0.45402
+Hand is: 2 clubs 9 spades
+ ratio: 0.480872
+Hand is: 2 clubs 10 spades
+ ratio: 0.510317
+Hand is: 2 clubs 11 spades
+ ratio: 0.54157
+Hand is: 2 clubs 12 spades
+ ratio: 0.576796
+Hand is: 2 clubs 0 hearts
+ ratio: 0.326687
+Hand is: 2 clubs 1 hearts
+ ratio: 0.342768
+Hand is: 2 clubs 2 hearts
+ ratio: 0.577428
+Hand is: 2 clubs 3 hearts
+ ratio: 0.375003
+Hand is: 2 clubs 4 hearts
+ ratio: 0.393098
+Hand is: 2 clubs 5 hearts
+ ratio: 0.399551
+Hand is: 2 clubs 6 hearts
+ ratio: 0.412724
+Hand is: 2 clubs 7 hearts
+ ratio: 0.427999
+Hand is: 2 clubs 8 hearts
+ ratio: 0.454158
+Hand is: 2 clubs 9 hearts
+ ratio: 0.480931
+Hand is: 2 clubs 10 hearts
+ ratio: 0.509178
+Hand is: 2 clubs 11 hearts
+ ratio: 0.542566
+Hand is: 2 clubs 12 hearts
+ ratio: 0.576408
+Hand is: 2 clubs 0 diamonds
+ ratio: 0.326945
+Hand is: 2 clubs 1 diamonds
+ ratio: 0.343174
+Hand is: 2 clubs 2 diamonds
+ ratio: 0.576916
+Hand is: 2 clubs 3 diamonds
+ ratio: 0.37412
+Hand is: 2 clubs 4 diamonds
+ ratio: 0.393195
+Hand is: 2 clubs 5 diamonds
+ ratio: 0.399329
+Hand is: 2 clubs 6 diamonds
+ ratio: 0.412454
+Hand is: 2 clubs 7 diamonds
+ ratio: 0.427474
+Hand is: 2 clubs 8 diamonds
+ ratio: 0.454193
+Hand is: 2 clubs 9 diamonds
+ ratio: 0.480689
+Hand is: 2 clubs 10 diamonds
+ ratio: 0.510225
+Hand is: 2 clubs 11 diamonds
+ ratio: 0.541498
+Hand is: 2 clubs 12 diamonds
+ ratio: 0.575761
+Hand is: 3 clubs 4 clubs
+ ratio: 0.440583
+Hand is: 3 clubs 5 clubs
+ ratio: 0.447068
+Hand is: 3 clubs 6 clubs
+ ratio: 0.460693
+Hand is: 3 clubs 7 clubs
+ ratio: 0.475279
+Hand is: 3 clubs 8 clubs
+ ratio: 0.491253
+Hand is: 3 clubs 9 clubs
+ ratio: 0.519274
+Hand is: 3 clubs 10 clubs
+ ratio: 0.545093
+Hand is: 3 clubs 11 clubs
+ ratio: 0.575284
+Hand is: 3 clubs 12 clubs
+ ratio: 0.609831
+Hand is: 3 clubs 0 spades
+ ratio: 0.341003
+Hand is: 3 clubs 1 spades
+ ratio: 0.357892
+Hand is: 3 clubs 2 spades
+ ratio: 0.375763
+Hand is: 3 clubs 3 spades
+ ratio: 0.608268
+Hand is: 3 clubs 4 spades
+ ratio: 0.410813
+Hand is: 3 clubs 5 spades
+ ratio: 0.416766
+Hand is: 3 clubs 6 spades
+ ratio: 0.429795
+Hand is: 3 clubs 7 spades
+ ratio: 0.444957
+Hand is: 3 clubs 8 spades
+ ratio: 0.462203
+Hand is: 3 clubs 9 spades
+ ratio: 0.492237
+Hand is: 3 clubs 10 spades
+ ratio: 0.52017
+Hand is: 3 clubs 11 spades
+ ratio: 0.552107
+Hand is: 3 clubs 12 spades
+ ratio: 0.587549
+Hand is: 3 clubs 0 hearts
+ ratio: 0.341501
+Hand is: 3 clubs 1 hearts
+ ratio: 0.357889
+Hand is: 3 clubs 2 hearts
+ ratio: 0.374385
+Hand is: 3 clubs 3 hearts
+ ratio: 0.607829
+Hand is: 3 clubs 4 hearts
+ ratio: 0.409847
+Hand is: 3 clubs 5 hearts
+ ratio: 0.416046
+Hand is: 3 clubs 6 hearts
+ ratio: 0.428635
+Hand is: 3 clubs 7 hearts
+ ratio: 0.444592
+Hand is: 3 clubs 8 hearts
+ ratio: 0.46211
+Hand is: 3 clubs 9 hearts
+ ratio: 0.49132
+Hand is: 3 clubs 10 hearts
+ ratio: 0.518896
+Hand is: 3 clubs 11 hearts
+ ratio: 0.551979
+Hand is: 3 clubs 12 hearts
+ ratio: 0.586831
+Hand is: 3 clubs 0 diamonds
+ ratio: 0.340723
+Hand is: 3 clubs 1 diamonds
+ ratio: 0.358212
+Hand is: 3 clubs 2 diamonds
+ ratio: 0.375193
+Hand is: 3 clubs 3 diamonds
+ ratio: 0.607647
+Hand is: 3 clubs 4 diamonds
+ ratio: 0.409805
+Hand is: 3 clubs 5 diamonds
+ ratio: 0.417184
+Hand is: 3 clubs 6 diamonds
+ ratio: 0.429626
+Hand is: 3 clubs 7 diamonds
+ ratio: 0.444701
+Hand is: 3 clubs 8 diamonds
+ ratio: 0.463239
+Hand is: 3 clubs 9 diamonds
+ ratio: 0.491395
+Hand is: 3 clubs 10 diamonds
+ ratio: 0.520459
+Hand is: 3 clubs 11 diamonds
+ ratio: 0.553233
+Hand is: 3 clubs 12 diamonds
+ ratio: 0.587915
+Hand is: 4 clubs 5 clubs
+ ratio: 0.464484
+Hand is: 4 clubs 6 clubs
+ ratio: 0.477201
+Hand is: 4 clubs 7 clubs
+ ratio: 0.491006
+Hand is: 4 clubs 8 clubs
+ ratio: 0.508581
+Hand is: 4 clubs 9 clubs
+ ratio: 0.527609
+Hand is: 4 clubs 10 clubs
+ ratio: 0.55671
+Hand is: 4 clubs 11 clubs
+ ratio: 0.586505
+Hand is: 4 clubs 12 clubs
+ ratio: 0.619121
+Hand is: 4 clubs 0 spades
+ ratio: 0.359068
+Hand is: 4 clubs 1 spades
+ ratio: 0.375915
+Hand is: 4 clubs 2 spades
+ ratio: 0.392154
+Hand is: 4 clubs 3 spades
+ ratio: 0.409647
+Hand is: 4 clubs 4 spades
+ ratio: 0.640742
+Hand is: 4 clubs 5 spades
+ ratio: 0.434578
+Hand is: 4 clubs 6 spades
+ ratio: 0.447231
+Hand is: 4 clubs 7 spades
+ ratio: 0.462546
+Hand is: 4 clubs 8 spades
+ ratio: 0.481077
+Hand is: 4 clubs 9 spades
+ ratio: 0.499436
+Hand is: 4 clubs 10 spades
+ ratio: 0.531868
+Hand is: 4 clubs 11 spades
+ ratio: 0.563943
+Hand is: 4 clubs 12 spades
+ ratio: 0.5983
+Hand is: 4 clubs 0 hearts
+ ratio: 0.358573
+Hand is: 4 clubs 1 hearts
+ ratio: 0.375056
+Hand is: 4 clubs 2 hearts
+ ratio: 0.391954
+Hand is: 4 clubs 3 hearts
+ ratio: 0.409989
+Hand is: 4 clubs 4 hearts
+ ratio: 0.640111
+Hand is: 4 clubs 5 hearts
+ ratio: 0.433556
+Hand is: 4 clubs 6 hearts
+ ratio: 0.447084
+Hand is: 4 clubs 7 hearts
+ ratio: 0.462422
+Hand is: 4 clubs 8 hearts
+ ratio: 0.481536
+Hand is: 4 clubs 9 hearts
+ ratio: 0.500563
+Hand is: 4 clubs 10 hearts
+ ratio: 0.531188
+Hand is: 4 clubs 11 hearts
+ ratio: 0.563576
+Hand is: 4 clubs 12 hearts
+ ratio: 0.598083
+Hand is: 4 clubs 0 diamonds
+ ratio: 0.358781
+Hand is: 4 clubs 1 diamonds
+ ratio: 0.376274
+Hand is: 4 clubs 2 diamonds
+ ratio: 0.391699
+Hand is: 4 clubs 3 diamonds
+ ratio: 0.409195
+Hand is: 4 clubs 4 diamonds
+ ratio: 0.640566
+Hand is: 4 clubs 5 diamonds
+ ratio: 0.434106
+Hand is: 4 clubs 6 diamonds
+ ratio: 0.446471
+Hand is: 4 clubs 7 diamonds
+ ratio: 0.462339
+Hand is: 4 clubs 8 diamonds
+ ratio: 0.480546
+Hand is: 4 clubs 9 diamonds
+ ratio: 0.500082
+Hand is: 4 clubs 10 diamonds
+ ratio: 0.53131
+Hand is: 4 clubs 11 diamonds
+ ratio: 0.564122
+Hand is: 4 clubs 12 diamonds
+ ratio: 0.598805
+Hand is: 5 clubs 6 clubs
+ ratio: 0.490614
+Hand is: 5 clubs 7 clubs
+ ratio: 0.504921
+Hand is: 5 clubs 8 clubs
+ ratio: 0.523013
+Hand is: 5 clubs 9 clubs
+ ratio: 0.541212
+Hand is: 5 clubs 10 clubs
+ ratio: 0.563334
+Hand is: 5 clubs 11 clubs
+ ratio: 0.595289
+Hand is: 5 clubs 12 clubs
+ ratio: 0.627657
+Hand is: 5 clubs 0 spades
+ ratio: 0.366046
+Hand is: 5 clubs 1 spades
+ ratio: 0.382382
+Hand is: 5 clubs 2 spades
+ ratio: 0.400242
+Hand is: 5 clubs 3 spades
+ ratio: 0.417352
+Hand is: 5 clubs 4 spades
+ ratio: 0.434482
+Hand is: 5 clubs 5 spades
+ ratio: 0.669567
+Hand is: 5 clubs 6 spades
+ ratio: 0.463156
+Hand is: 5 clubs 7 spades
+ ratio: 0.47706
+Hand is: 5 clubs 8 spades
+ ratio: 0.495701
+Hand is: 5 clubs 9 spades
+ ratio: 0.514999
+Hand is: 5 clubs 10 spades
+ ratio: 0.538478
+Hand is: 5 clubs 11 spades
+ ratio: 0.57219
+Hand is: 5 clubs 12 spades
+ ratio: 0.607786
+Hand is: 5 clubs 0 hearts
+ ratio: 0.365935
+Hand is: 5 clubs 1 hearts
+ ratio: 0.382898
+Hand is: 5 clubs 2 hearts
+ ratio: 0.399467
+Hand is: 5 clubs 3 hearts
+ ratio: 0.418155
+Hand is: 5 clubs 4 hearts
+ ratio: 0.434895
+Hand is: 5 clubs 5 hearts
+ ratio: 0.669587
+Hand is: 5 clubs 6 hearts
+ ratio: 0.462294
+Hand is: 5 clubs 7 hearts
+ ratio: 0.478487
+Hand is: 5 clubs 8 hearts
+ ratio: 0.495715
+Hand is: 5 clubs 9 hearts
+ ratio: 0.515356
+Hand is: 5 clubs 10 hearts
+ ratio: 0.538165
+Hand is: 5 clubs 11 hearts
+ ratio: 0.572293
+Hand is: 5 clubs 12 hearts
+ ratio: 0.606431
+Hand is: 5 clubs 0 diamonds
+ ratio: 0.366124
+Hand is: 5 clubs 1 diamonds
+ ratio: 0.382242
+Hand is: 5 clubs 2 diamonds
+ ratio: 0.399275
+Hand is: 5 clubs 3 diamonds
+ ratio: 0.417576
+Hand is: 5 clubs 4 diamonds
+ ratio: 0.435294
+Hand is: 5 clubs 5 diamonds
+ ratio: 0.669695
+Hand is: 5 clubs 6 diamonds
+ ratio: 0.461726
+Hand is: 5 clubs 7 diamonds
+ ratio: 0.477197
+Hand is: 5 clubs 8 diamonds
+ ratio: 0.49598
+Hand is: 5 clubs 9 diamonds
+ ratio: 0.515583
+Hand is: 5 clubs 10 diamonds
+ ratio: 0.538235
+Hand is: 5 clubs 11 diamonds
+ ratio: 0.573457
+Hand is: 5 clubs 12 diamonds
+ ratio: 0.607735
+Hand is: 6 clubs 7 clubs
+ ratio: 0.51914
+Hand is: 6 clubs 8 clubs
+ ratio: 0.535787
+Hand is: 6 clubs 9 clubs
+ ratio: 0.555699
+Hand is: 6 clubs 10 clubs
+ ratio: 0.577803
+Hand is: 6 clubs 11 clubs
+ ratio: 0.601964
+Hand is: 6 clubs 12 clubs
+ ratio: 0.63749
+Hand is: 6 clubs 0 spades
+ ratio: 0.389092
+Hand is: 6 clubs 1 spades
+ ratio: 0.394569
+Hand is: 6 clubs 2 spades
+ ratio: 0.411569
+Hand is: 6 clubs 3 spades
+ ratio: 0.430189
+Hand is: 6 clubs 4 spades
+ ratio: 0.44832
+Hand is: 6 clubs 5 spades
+ ratio: 0.461586
+Hand is: 6 clubs 6 spades
+ ratio: 0.699662
+Hand is: 6 clubs 7 spades
+ ratio: 0.492864
+Hand is: 6 clubs 8 spades
+ ratio: 0.510724
+Hand is: 6 clubs 9 spades
+ ratio: 0.530454
+Hand is: 6 clubs 10 spades
+ ratio: 0.554422
+Hand is: 6 clubs 11 spades
+ ratio: 0.580926
+Hand is: 6 clubs 12 spades
+ ratio: 0.61761
+Hand is: 6 clubs 0 hearts
+ ratio: 0.38782
+Hand is: 6 clubs 1 hearts
+ ratio: 0.395079
+Hand is: 6 clubs 2 hearts
+ ratio: 0.411433
+Hand is: 6 clubs 3 hearts
+ ratio: 0.429487
+Hand is: 6 clubs 4 hearts
+ ratio: 0.447373
+Hand is: 6 clubs 5 hearts
+ ratio: 0.462169
+Hand is: 6 clubs 6 hearts
+ ratio: 0.69952
+Hand is: 6 clubs 7 hearts
+ ratio: 0.492827
+Hand is: 6 clubs 8 hearts
+ ratio: 0.511335
+Hand is: 6 clubs 9 hearts
+ ratio: 0.53061
+Hand is: 6 clubs 10 hearts
+ ratio: 0.553696
+Hand is: 6 clubs 11 hearts
+ ratio: 0.580828
+Hand is: 6 clubs 12 hearts
+ ratio: 0.617121
+Hand is: 6 clubs 0 diamonds
+ ratio: 0.3879
+Hand is: 6 clubs 1 diamonds
+ ratio: 0.395705
+Hand is: 6 clubs 2 diamonds
+ ratio: 0.412243
+Hand is: 6 clubs 3 diamonds
+ ratio: 0.429805
+Hand is: 6 clubs 4 diamonds
+ ratio: 0.447228
+Hand is: 6 clubs 5 diamonds
+ ratio: 0.463233
+Hand is: 6 clubs 6 diamonds
+ ratio: 0.699021
+Hand is: 6 clubs 7 diamonds
+ ratio: 0.493292
+Hand is: 6 clubs 8 diamonds
+ ratio: 0.510306
+Hand is: 6 clubs 9 diamonds
+ ratio: 0.531231
+Hand is: 6 clubs 10 diamonds
+ ratio: 0.554311
+Hand is: 6 clubs 11 diamonds
+ ratio: 0.58131
+Hand is: 6 clubs 12 diamonds
+ ratio: 0.617465
+Hand is: 7 clubs 8 clubs
+ ratio: 0.550345
+Hand is: 7 clubs 9 clubs
+ ratio: 0.568912
+Hand is: 7 clubs 10 clubs
+ ratio: 0.591262
+Hand is: 7 clubs 11 clubs
+ ratio: 0.616797
+Hand is: 7 clubs 12 clubs
+ ratio: 0.645034
+Hand is: 7 clubs 0 spades
+ ratio: 0.411626
+Hand is: 7 clubs 1 spades
+ ratio: 0.419385
+Hand is: 7 clubs 2 spades
+ ratio: 0.427799
+Hand is: 7 clubs 3 spades
+ ratio: 0.444528
+Hand is: 7 clubs 4 spades
+ ratio: 0.462623
+Hand is: 7 clubs 5 spades
+ ratio: 0.477562
+Hand is: 7 clubs 6 spades
+ ratio: 0.491921
+Hand is: 7 clubs 7 spades
+ ratio: 0.728232
+Hand is: 7 clubs 8 spades
+ ratio: 0.526149
+Hand is: 7 clubs 9 spades
+ ratio: 0.5458
+Hand is: 7 clubs 10 spades
+ ratio: 0.568571
+Hand is: 7 clubs 11 spades
+ ratio: 0.595092
+Hand is: 7 clubs 12 spades
+ ratio: 0.625779
+Hand is: 7 clubs 0 hearts
+ ratio: 0.409777
+Hand is: 7 clubs 1 hearts
+ ratio: 0.419153
+Hand is: 7 clubs 2 hearts
+ ratio: 0.427059
+Hand is: 7 clubs 3 hearts
+ ratio: 0.444449
+Hand is: 7 clubs 4 hearts
+ ratio: 0.462251
+Hand is: 7 clubs 5 hearts
+ ratio: 0.477994
+Hand is: 7 clubs 6 hearts
+ ratio: 0.492369
+Hand is: 7 clubs 7 hearts
+ ratio: 0.727841
+Hand is: 7 clubs 8 hearts
+ ratio: 0.525248
+Hand is: 7 clubs 9 hearts
+ ratio: 0.545162
+Hand is: 7 clubs 10 hearts
+ ratio: 0.568939
+Hand is: 7 clubs 11 hearts
+ ratio: 0.596064
+Hand is: 7 clubs 12 hearts
+ ratio: 0.62571
+Hand is: 7 clubs 0 diamonds
+ ratio: 0.410595
+Hand is: 7 clubs 1 diamonds
+ ratio: 0.419192
+Hand is: 7 clubs 2 diamonds
+ ratio: 0.426565
+Hand is: 7 clubs 3 diamonds
+ ratio: 0.444945
+Hand is: 7 clubs 4 diamonds
+ ratio: 0.46347
+Hand is: 7 clubs 5 diamonds
+ ratio: 0.476678
+Hand is: 7 clubs 6 diamonds
+ ratio: 0.491911
+Hand is: 7 clubs 7 diamonds
+ ratio: 0.728335
+Hand is: 7 clubs 8 diamonds
+ ratio: 0.526371
+Hand is: 7 clubs 9 diamonds
+ ratio: 0.546295
+Hand is: 7 clubs 10 diamonds
+ ratio: 0.568173
+Hand is: 7 clubs 11 diamonds
+ ratio: 0.596606
+Hand is: 7 clubs 12 diamonds
+ ratio: 0.625109
+Hand is: 8 clubs 9 clubs
+ ratio: 0.58428
+Hand is: 8 clubs 10 clubs
+ ratio: 0.606153
+Hand is: 8 clubs 11 clubs
+ ratio: 0.631124
+Hand is: 8 clubs 12 clubs
+ ratio: 0.660393
+Hand is: 8 clubs 0 spades
+ ratio: 0.435517
+Hand is: 8 clubs 1 spades
+ ratio: 0.444544
+Hand is: 8 clubs 2 spades
+ ratio: 0.454559
+Hand is: 8 clubs 3 spades
+ ratio: 0.462147
+Hand is: 8 clubs 4 spades
+ ratio: 0.480786
+Hand is: 8 clubs 5 spades
+ ratio: 0.496209
+Hand is: 8 clubs 6 spades
+ ratio: 0.511368
+Hand is: 8 clubs 7 spades
+ ratio: 0.5261
+Hand is: 8 clubs 8 spades
+ ratio: 0.757723
+Hand is: 8 clubs 9 spades
+ ratio: 0.560575
+Hand is: 8 clubs 10 spades
+ ratio: 0.585117
+Hand is: 8 clubs 11 spades
+ ratio: 0.611719
+Hand is: 8 clubs 12 spades
+ ratio: 0.641812
+Hand is: 8 clubs 0 hearts
+ ratio: 0.435205
+Hand is: 8 clubs 1 hearts
+ ratio: 0.44434
+Hand is: 8 clubs 2 hearts
+ ratio: 0.45539
+Hand is: 8 clubs 3 hearts
+ ratio: 0.463081
+Hand is: 8 clubs 4 hearts
+ ratio: 0.48071
+Hand is: 8 clubs 5 hearts
+ ratio: 0.495552
+Hand is: 8 clubs 6 hearts
+ ratio: 0.511168
+Hand is: 8 clubs 7 hearts
+ ratio: 0.526046
+Hand is: 8 clubs 8 hearts
+ ratio: 0.758944
+Hand is: 8 clubs 9 hearts
+ ratio: 0.560527
+Hand is: 8 clubs 10 hearts
+ ratio: 0.584431
+Hand is: 8 clubs 11 hearts
+ ratio: 0.611842
+Hand is: 8 clubs 12 hearts
+ ratio: 0.642337
+Hand is: 8 clubs 0 diamonds
+ ratio: 0.434629
+Hand is: 8 clubs 1 diamonds
+ ratio: 0.444842
+Hand is: 8 clubs 2 diamonds
+ ratio: 0.45421
+Hand is: 8 clubs 3 diamonds
+ ratio: 0.462005
+Hand is: 8 clubs 4 diamonds
+ ratio: 0.481906
+Hand is: 8 clubs 5 diamonds
+ ratio: 0.49514
+Hand is: 8 clubs 6 diamonds
+ ratio: 0.511425
+Hand is: 8 clubs 7 diamonds
+ ratio: 0.526182
+Hand is: 8 clubs 8 diamonds
+ ratio: 0.758679
+Hand is: 8 clubs 9 diamonds
+ ratio: 0.561899
+Hand is: 8 clubs 10 diamonds
+ ratio: 0.584708
+Hand is: 8 clubs 11 diamonds
+ ratio: 0.611611
+Hand is: 8 clubs 12 diamonds
+ ratio: 0.641586
+Hand is: 9 clubs 10 clubs
+ ratio: 0.612838
+Hand is: 9 clubs 11 clubs
+ ratio: 0.638169
+Hand is: 9 clubs 12 clubs
+ ratio: 0.666939
+Hand is: 9 clubs 0 spades
+ ratio: 0.461968
+Hand is: 9 clubs 1 spades
+ ratio: 0.469724
+Hand is: 9 clubs 2 spades
+ ratio: 0.479694
+Hand is: 9 clubs 3 spades
+ ratio: 0.490576
+Hand is: 9 clubs 4 spades
+ ratio: 0.500124
+Hand is: 9 clubs 5 spades
+ ratio: 0.516187
+Hand is: 9 clubs 6 spades
+ ratio: 0.530312
+Hand is: 9 clubs 7 spades
+ ratio: 0.544582
+Hand is: 9 clubs 8 spades
+ ratio: 0.561269
+Hand is: 9 clubs 9 spades
+ ratio: 0.783082
+Hand is: 9 clubs 10 spades
+ ratio: 0.591808
+Hand is: 9 clubs 11 spades
+ ratio: 0.617976
+Hand is: 9 clubs 12 spades
+ ratio: 0.648523
+Hand is: 9 clubs 0 hearts
+ ratio: 0.462483
+Hand is: 9 clubs 1 hearts
+ ratio: 0.470994
+Hand is: 9 clubs 2 hearts
+ ratio: 0.480715
+Hand is: 9 clubs 3 hearts
+ ratio: 0.491286
+Hand is: 9 clubs 4 hearts
+ ratio: 0.50019
+Hand is: 9 clubs 5 hearts
+ ratio: 0.516227
+Hand is: 9 clubs 6 hearts
+ ratio: 0.529734
+Hand is: 9 clubs 7 hearts
+ ratio: 0.544198
+Hand is: 9 clubs 8 hearts
+ ratio: 0.561861
+Hand is: 9 clubs 9 hearts
+ ratio: 0.783235
+Hand is: 9 clubs 10 hearts
+ ratio: 0.592321
+Hand is: 9 clubs 11 hearts
+ ratio: 0.619336
+Hand is: 9 clubs 12 hearts
+ ratio: 0.648708
+Hand is: 9 clubs 0 diamonds
+ ratio: 0.46233
+Hand is: 9 clubs 1 diamonds
+ ratio: 0.470694
+Hand is: 9 clubs 2 diamonds
+ ratio: 0.48019
+Hand is: 9 clubs 3 diamonds
+ ratio: 0.491195
+Hand is: 9 clubs 4 diamonds
+ ratio: 0.501812
+Hand is: 9 clubs 5 diamonds
+ ratio: 0.516324
+Hand is: 9 clubs 6 diamonds
+ ratio: 0.53163
+Hand is: 9 clubs 7 diamonds
+ ratio: 0.545471
+Hand is: 9 clubs 8 diamonds
+ ratio: 0.561432
+Hand is: 9 clubs 9 diamonds
+ ratio: 0.783662
+Hand is: 9 clubs 10 diamonds
+ ratio: 0.591703
+Hand is: 9 clubs 11 diamonds
+ ratio: 0.61858
+Hand is: 9 clubs 12 diamonds
+ ratio: 0.648808
+Hand is: 10 clubs 11 clubs
+ ratio: 0.644924
+Hand is: 10 clubs 12 clubs
+ ratio: 0.673786
+Hand is: 10 clubs 0 spades
+ ratio: 0.490854
+Hand is: 10 clubs 1 spades
+ ratio: 0.499193
+Hand is: 10 clubs 2 spades
+ ratio: 0.509811
+Hand is: 10 clubs 3 spades
+ ratio: 0.520678
+Hand is: 10 clubs 4 spades
+ ratio: 0.531814
+Hand is: 10 clubs 5 spades
+ ratio: 0.53782
+Hand is: 10 clubs 6 spades
+ ratio: 0.554583
+Hand is: 10 clubs 7 spades
+ ratio: 0.56823
+Hand is: 10 clubs 8 spades
+ ratio: 0.58491
+Hand is: 10 clubs 9 spades
+ ratio: 0.591536
+Hand is: 10 clubs 10 spades
+ ratio: 0.810488
+Hand is: 10 clubs 11 spades
+ ratio: 0.626416
+Hand is: 10 clubs 12 spades
+ ratio: 0.656225
+Hand is: 10 clubs 0 hearts
+ ratio: 0.490636
+Hand is: 10 clubs 1 hearts
+ ratio: 0.500171
+Hand is: 10 clubs 2 hearts
+ ratio: 0.510356
+Hand is: 10 clubs 3 hearts
+ ratio: 0.519744
+Hand is: 10 clubs 4 hearts
+ ratio: 0.532187
+Hand is: 10 clubs 5 hearts
+ ratio: 0.539439
+Hand is: 10 clubs 6 hearts
+ ratio: 0.554633
+Hand is: 10 clubs 7 hearts
+ ratio: 0.568099
+Hand is: 10 clubs 8 hearts
+ ratio: 0.584145
+Hand is: 10 clubs 9 hearts
+ ratio: 0.592087
+Hand is: 10 clubs 10 hearts
+ ratio: 0.810836
+Hand is: 10 clubs 11 hearts
+ ratio: 0.627191
+Hand is: 10 clubs 12 hearts
+ ratio: 0.657465
+Hand is: 10 clubs 0 diamonds
+ ratio: 0.491781
+Hand is: 10 clubs 1 diamonds
+ ratio: 0.499934
+Hand is: 10 clubs 2 diamonds
+ ratio: 0.509127
+Hand is: 10 clubs 3 diamonds
+ ratio: 0.520471
+Hand is: 10 clubs 4 diamonds
+ ratio: 0.531391
+Hand is: 10 clubs 5 diamonds
+ ratio: 0.53944
+Hand is: 10 clubs 6 diamonds
+ ratio: 0.554052
+Hand is: 10 clubs 7 diamonds
+ ratio: 0.568516
+Hand is: 10 clubs 8 diamonds
+ ratio: 0.58368
+Hand is: 10 clubs 9 diamonds
+ ratio: 0.592117
+Hand is: 10 clubs 10 diamonds
+ ratio: 0.810571
+Hand is: 10 clubs 11 diamonds
+ ratio: 0.627455
+Hand is: 10 clubs 12 diamonds
+ ratio: 0.656468
+Hand is: 11 clubs 12 clubs
+ ratio: 0.682907
+Hand is: 11 clubs 0 spades
+ ratio: 0.523338
+Hand is: 11 clubs 1 spades
+ ratio: 0.531202
+Hand is: 11 clubs 2 spades
+ ratio: 0.541925
+Hand is: 11 clubs 3 spades
+ ratio: 0.55321
+Hand is: 11 clubs 4 spades
+ ratio: 0.563529
+Hand is: 11 clubs 5 spades
+ ratio: 0.571941
+Hand is: 11 clubs 6 spades
+ ratio: 0.580868
+Hand is: 11 clubs 7 spades
+ ratio: 0.596025
+Hand is: 11 clubs 8 spades
+ ratio: 0.611797
+Hand is: 11 clubs 9 spades
+ ratio: 0.619195
+Hand is: 11 clubs 10 spades
+ ratio: 0.62702
+Hand is: 11 clubs 11 spades
+ ratio: 0.837141
+Hand is: 11 clubs 12 spades
+ ratio: 0.665733
+Hand is: 11 clubs 0 hearts
+ ratio: 0.523285
+Hand is: 11 clubs 1 hearts
+ ratio: 0.531551
+Hand is: 11 clubs 2 hearts
+ ratio: 0.542346
+Hand is: 11 clubs 3 hearts
+ ratio: 0.552471
+Hand is: 11 clubs 4 hearts
+ ratio: 0.562446
+Hand is: 11 clubs 5 hearts
+ ratio: 0.573325
+Hand is: 11 clubs 6 hearts
+ ratio: 0.579886
+Hand is: 11 clubs 7 hearts
+ ratio: 0.595296
+Hand is: 11 clubs 8 hearts
+ ratio: 0.610878
+Hand is: 11 clubs 9 hearts
+ ratio: 0.617747
+Hand is: 11 clubs 10 hearts
+ ratio: 0.627393
+Hand is: 11 clubs 11 hearts
+ ratio: 0.837634
+Hand is: 11 clubs 12 hearts
+ ratio: 0.665721
+Hand is: 11 clubs 0 diamonds
+ ratio: 0.522217
+Hand is: 11 clubs 1 diamonds
+ ratio: 0.532698
+Hand is: 11 clubs 2 diamonds
+ ratio: 0.541398
+Hand is: 11 clubs 3 diamonds
+ ratio: 0.552942
+Hand is: 11 clubs 4 diamonds
+ ratio: 0.563295
+Hand is: 11 clubs 5 diamonds
+ ratio: 0.573339
+Hand is: 11 clubs 6 diamonds
+ ratio: 0.580123
+Hand is: 11 clubs 7 diamonds
+ ratio: 0.596373
+Hand is: 11 clubs 8 diamonds
+ ratio: 0.611386
+Hand is: 11 clubs 9 diamonds
+ ratio: 0.618619
+Hand is: 11 clubs 10 diamonds
+ ratio: 0.627137
+Hand is: 11 clubs 11 diamonds
+ ratio: 0.837948
+Hand is: 11 clubs 12 diamonds
+ ratio: 0.665508
+Hand is: 12 clubs 0 spades
+ ratio: 0.557575
+Hand is: 12 clubs 1 spades
+ ratio: 0.566907
+Hand is: 12 clubs 2 spades
+ ratio: 0.576226
+Hand is: 12 clubs 3 spades
+ ratio: 0.587114
+Hand is: 12 clubs 4 spades
+ ratio: 0.598214
+Hand is: 12 clubs 5 spades
+ ratio: 0.607248
+Hand is: 12 clubs 6 spades
+ ratio: 0.616847
+Hand is: 12 clubs 7 spades
+ ratio: 0.626311
+Hand is: 12 clubs 8 spades
+ ratio: 0.642309
+Hand is: 12 clubs 9 spades
+ ratio: 0.648469
+Hand is: 12 clubs 10 spades
+ ratio: 0.657735
+Hand is: 12 clubs 11 spades
+ ratio: 0.666485
+Hand is: 12 clubs 12 spades
+ ratio: 0.865269
+Hand is: 12 clubs 0 hearts
+ ratio: 0.558111
+Hand is: 12 clubs 1 hearts
+ ratio: 0.566578
+Hand is: 12 clubs 2 hearts
+ ratio: 0.576803
+Hand is: 12 clubs 3 hearts
+ ratio: 0.587827
+Hand is: 12 clubs 4 hearts
+ ratio: 0.598849
+Hand is: 12 clubs 5 hearts
+ ratio: 0.606396
+Hand is: 12 clubs 6 hearts
+ ratio: 0.617134
+Hand is: 12 clubs 7 hearts
+ ratio: 0.625856
+Hand is: 12 clubs 8 hearts
+ ratio: 0.641381
+Hand is: 12 clubs 9 hearts
+ ratio: 0.648675
+Hand is: 12 clubs 10 hearts
+ ratio: 0.656786
+Hand is: 12 clubs 11 hearts
+ ratio: 0.665639
+Hand is: 12 clubs 12 hearts
+ ratio: 0.865106
+Hand is: 12 clubs 0 diamonds
+ ratio: 0.559069
+Hand is: 12 clubs 1 diamonds
+ ratio: 0.566788
+Hand is: 12 clubs 2 diamonds
+ ratio: 0.576473
+Hand is: 12 clubs 3 diamonds
+ ratio: 0.587143
+Hand is: 12 clubs 4 diamonds
+ ratio: 0.598235
+Hand is: 12 clubs 5 diamonds
+ ratio: 0.606926
+Hand is: 12 clubs 6 diamonds
+ ratio: 0.617013
+Hand is: 12 clubs 7 diamonds
+ ratio: 0.625955
+Hand is: 12 clubs 8 diamonds
+ ratio: 0.642975
+Hand is: 12 clubs 9 diamonds
+ ratio: 0.648545
+Hand is: 12 clubs 10 diamonds
+ ratio: 0.657837
+Hand is: 12 clubs 11 diamonds
+ ratio: 0.666005
+Hand is: 12 clubs 12 diamonds
+ ratio: 0.865344
+Hand is: 0 spades 1 spades
+ ratio: 0.352427
+Hand is: 0 spades 2 spades
+ ratio: 0.363513
+Hand is: 0 spades 3 spades
+ ratio: 0.377881
+Hand is: 0 spades 4 spades
+ ratio: 0.394094
+Hand is: 0 spades 5 spades
+ ratio: 0.400273
+Hand is: 0 spades 6 spades
+ ratio: 0.42244
+Hand is: 0 spades 7 spades
+ ratio: 0.443177
+Hand is: 0 spades 8 spades
+ ratio: 0.465743
+Hand is: 0 spades 9 spades
+ ratio: 0.491426
+Hand is: 0 spades 10 spades
+ ratio: 0.518752
+Hand is: 0 spades 11 spades
+ ratio: 0.548163
+Hand is: 0 spades 12 spades
+ ratio: 0.582592
+Hand is: 0 spades 0 hearts
+ ratio: 0.516043
+Hand is: 0 spades 1 hearts
+ ratio: 0.314236
+Hand is: 0 spades 2 hearts
+ ratio: 0.325775
+Hand is: 0 spades 3 hearts
+ ratio: 0.341444
+Hand is: 0 spades 4 hearts
+ ratio: 0.358704
+Hand is: 0 spades 5 hearts
+ ratio: 0.36551
+Hand is: 0 spades 6 hearts
+ ratio: 0.388133
+Hand is: 0 spades 7 hearts
+ ratio: 0.410636
+Hand is: 0 spades 8 hearts
+ ratio: 0.435574
+Hand is: 0 spades 9 hearts
+ ratio: 0.462901
+Hand is: 0 spades 10 hearts
+ ratio: 0.491329
+Hand is: 0 spades 11 hearts
+ ratio: 0.522584
+Hand is: 0 spades 12 hearts
+ ratio: 0.557956
+Hand is: 0 spades 0 diamonds
+ ratio: 0.51693
+Hand is: 0 spades 1 diamonds
+ ratio: 0.313859
+Hand is: 0 spades 2 diamonds
+ ratio: 0.326825
+Hand is: 0 spades 3 diamonds
+ ratio: 0.342409
+Hand is: 0 spades 4 diamonds
+ ratio: 0.358925
+Hand is: 0 spades 5 diamonds
+ ratio: 0.365543
+Hand is: 0 spades 6 diamonds
+ ratio: 0.388768
+Hand is: 0 spades 7 diamonds
+ ratio: 0.41089
+Hand is: 0 spades 8 diamonds
+ ratio: 0.43444
+Hand is: 0 spades 9 diamonds
+ ratio: 0.4614
+Hand is: 0 spades 10 diamonds
+ ratio: 0.491208
+Hand is: 0 spades 11 diamonds
+ ratio: 0.52263
+Hand is: 0 spades 12 diamonds
+ ratio: 0.558426
+Hand is: 1 spades 2 spades
+ ratio: 0.378871
+Hand is: 1 spades 3 spades
+ ratio: 0.39277
+Hand is: 1 spades 4 spades
+ ratio: 0.409312
+Hand is: 1 spades 5 spades
+ ratio: 0.416582
+Hand is: 1 spades 6 spades
+ ratio: 0.428291
+Hand is: 1 spades 7 spades
+ ratio: 0.451148
+Hand is: 1 spades 8 spades
+ ratio: 0.47491
+Hand is: 1 spades 9 spades
+ ratio: 0.499752
+Hand is: 1 spades 10 spades
+ ratio: 0.527678
+Hand is: 1 spades 11 spades
+ ratio: 0.558651
+Hand is: 1 spades 12 spades
+ ratio: 0.590136
+Hand is: 1 spades 0 hearts
+ ratio: 0.313546
+Hand is: 1 spades 1 hearts
+ ratio: 0.547275
+Hand is: 1 spades 2 hearts
+ ratio: 0.341872
+Hand is: 1 spades 3 hearts
+ ratio: 0.359033
+Hand is: 1 spades 4 hearts
+ ratio: 0.375684
+Hand is: 1 spades 5 hearts
+ ratio: 0.383173
+Hand is: 1 spades 6 hearts
+ ratio: 0.395884
+Hand is: 1 spades 7 hearts
+ ratio: 0.419807
+Hand is: 1 spades 8 hearts
+ ratio: 0.443805
+Hand is: 1 spades 9 hearts
+ ratio: 0.471149
+Hand is: 1 spades 10 hearts
+ ratio: 0.500309
+Hand is: 1 spades 11 hearts
+ ratio: 0.531721
+Hand is: 1 spades 12 hearts
+ ratio: 0.567908
+Hand is: 1 spades 0 diamonds
+ ratio: 0.314768
+Hand is: 1 spades 1 diamonds
+ ratio: 0.546963
+Hand is: 1 spades 2 diamonds
+ ratio: 0.342064
+Hand is: 1 spades 3 diamonds
+ ratio: 0.35793
+Hand is: 1 spades 4 diamonds
+ ratio: 0.375585
+Hand is: 1 spades 5 diamonds
+ ratio: 0.383548
+Hand is: 1 spades 6 diamonds
+ ratio: 0.394722
+Hand is: 1 spades 7 diamonds
+ ratio: 0.419819
+Hand is: 1 spades 8 diamonds
+ ratio: 0.444496
+Hand is: 1 spades 9 diamonds
+ ratio: 0.470505
+Hand is: 1 spades 10 diamonds
+ ratio: 0.500618
+Hand is: 1 spades 11 diamonds
+ ratio: 0.532203
+Hand is: 1 spades 12 diamonds
+ ratio: 0.567597
+Hand is: 2 spades 3 spades
+ ratio: 0.408094
+Hand is: 2 spades 4 spades
+ ratio: 0.425086
+Hand is: 2 spades 5 spades
+ ratio: 0.432483
+Hand is: 2 spades 6 spades
+ ratio: 0.44509
+Hand is: 2 spades 7 spades
+ ratio: 0.458794
+Hand is: 2 spades 8 spades
+ ratio: 0.483458
+Hand is: 2 spades 9 spades
+ ratio: 0.508818
+Hand is: 2 spades 10 spades
+ ratio: 0.536554
+Hand is: 2 spades 11 spades
+ ratio: 0.566676
+Hand is: 2 spades 12 spades
+ ratio: 0.598895
+Hand is: 2 spades 0 hearts
+ ratio: 0.327025
+Hand is: 2 spades 1 hearts
+ ratio: 0.342651
+Hand is: 2 spades 2 hearts
+ ratio: 0.576549
+Hand is: 2 spades 3 hearts
+ ratio: 0.374591
+Hand is: 2 spades 4 hearts
+ ratio: 0.392482
+Hand is: 2 spades 5 hearts
+ ratio: 0.40035
+Hand is: 2 spades 6 hearts
+ ratio: 0.412974
+Hand is: 2 spades 7 hearts
+ ratio: 0.428448
+Hand is: 2 spades 8 hearts
+ ratio: 0.45451
+Hand is: 2 spades 9 hearts
+ ratio: 0.48025
+Hand is: 2 spades 10 hearts
+ ratio: 0.509244
+Hand is: 2 spades 11 hearts
+ ratio: 0.540696
+Hand is: 2 spades 12 hearts
+ ratio: 0.577235
+Hand is: 2 spades 0 diamonds
+ ratio: 0.326355
+Hand is: 2 spades 1 diamonds
+ ratio: 0.34278
+Hand is: 2 spades 2 diamonds
+ ratio: 0.576871
+Hand is: 2 spades 3 diamonds
+ ratio: 0.375084
+Hand is: 2 spades 4 diamonds
+ ratio: 0.392541
+Hand is: 2 spades 5 diamonds
+ ratio: 0.398879
+Hand is: 2 spades 6 diamonds
+ ratio: 0.411952
+Hand is: 2 spades 7 diamonds
+ ratio: 0.427197
+Hand is: 2 spades 8 diamonds
+ ratio: 0.453535
+Hand is: 2 spades 9 diamonds
+ ratio: 0.480859
+Hand is: 2 spades 10 diamonds
+ ratio: 0.510664
+Hand is: 2 spades 11 diamonds
+ ratio: 0.541814
+Hand is: 2 spades 12 diamonds
+ ratio: 0.576934
+Hand is: 3 spades 4 spades
+ ratio: 0.440576
+Hand is: 3 spades 5 spades
+ ratio: 0.448189
+Hand is: 3 spades 6 spades
+ ratio: 0.459852
+Hand is: 3 spades 7 spades
+ ratio: 0.474274
+Hand is: 3 spades 8 spades
+ ratio: 0.491726
+Hand is: 3 spades 9 spades
+ ratio: 0.519302
+Hand is: 3 spades 10 spades
+ ratio: 0.546354
+Hand is: 3 spades 11 spades
+ ratio: 0.576669
+Hand is: 3 spades 12 spades
+ ratio: 0.608824
+Hand is: 3 spades 0 hearts
+ ratio: 0.341772
+Hand is: 3 spades 1 hearts
+ ratio: 0.357385
+Hand is: 3 spades 2 hearts
+ ratio: 0.374428
+Hand is: 3 spades 3 hearts
+ ratio: 0.607661
+Hand is: 3 spades 4 hearts
+ ratio: 0.409912
+Hand is: 3 spades 5 hearts
+ ratio: 0.416605
+Hand is: 3 spades 6 hearts
+ ratio: 0.429719
+Hand is: 3 spades 7 hearts
+ ratio: 0.444353
+Hand is: 3 spades 8 hearts
+ ratio: 0.463261
+Hand is: 3 spades 9 hearts
+ ratio: 0.491032
+Hand is: 3 spades 10 hearts
+ ratio: 0.519626
+Hand is: 3 spades 11 hearts
+ ratio: 0.552357
+Hand is: 3 spades 12 hearts
+ ratio: 0.586999
+Hand is: 3 spades 0 diamonds
+ ratio: 0.341304
+Hand is: 3 spades 1 diamonds
+ ratio: 0.358174
+Hand is: 3 spades 2 diamonds
+ ratio: 0.374561
+Hand is: 3 spades 3 diamonds
+ ratio: 0.607919
+Hand is: 3 spades 4 diamonds
+ ratio: 0.409865
+Hand is: 3 spades 5 diamonds
+ ratio: 0.417171
+Hand is: 3 spades 6 diamonds
+ ratio: 0.42834
+Hand is: 3 spades 7 diamonds
+ ratio: 0.445557
+Hand is: 3 spades 8 diamonds
+ ratio: 0.463607
+Hand is: 3 spades 9 diamonds
+ ratio: 0.490739
+Hand is: 3 spades 10 diamonds
+ ratio: 0.519925
+Hand is: 3 spades 11 diamonds
+ ratio: 0.553466
+Hand is: 3 spades 12 diamonds
+ ratio: 0.587631
+Hand is: 4 spades 5 spades
+ ratio: 0.464282
+Hand is: 4 spades 6 spades
+ ratio: 0.476576
+Hand is: 4 spades 7 spades
+ ratio: 0.491364
+Hand is: 4 spades 8 spades
+ ratio: 0.508465
+Hand is: 4 spades 9 spades
+ ratio: 0.527234
+Hand is: 4 spades 10 spades
+ ratio: 0.556742
+Hand is: 4 spades 11 spades
+ ratio: 0.587659
+Hand is: 4 spades 12 spades
+ ratio: 0.618619
+Hand is: 4 spades 0 hearts
+ ratio: 0.358749
+Hand is: 4 spades 1 hearts
+ ratio: 0.375507
+Hand is: 4 spades 2 hearts
+ ratio: 0.39273
+Hand is: 4 spades 3 hearts
+ ratio: 0.409042
+Hand is: 4 spades 4 hearts
+ ratio: 0.6409
+Hand is: 4 spades 5 hearts
+ ratio: 0.434717
+Hand is: 4 spades 6 hearts
+ ratio: 0.447673
+Hand is: 4 spades 7 hearts
+ ratio: 0.462658
+Hand is: 4 spades 8 hearts
+ ratio: 0.481129
+Hand is: 4 spades 9 hearts
+ ratio: 0.499984
+Hand is: 4 spades 10 hearts
+ ratio: 0.531336
+Hand is: 4 spades 11 hearts
+ ratio: 0.563206
+Hand is: 4 spades 12 hearts
+ ratio: 0.597635
+Hand is: 4 spades 0 diamonds
+ ratio: 0.358864
+Hand is: 4 spades 1 diamonds
+ ratio: 0.375107
+Hand is: 4 spades 2 diamonds
+ ratio: 0.392441
+Hand is: 4 spades 3 diamonds
+ ratio: 0.409472
+Hand is: 4 spades 4 diamonds
+ ratio: 0.639792
+Hand is: 4 spades 5 diamonds
+ ratio: 0.434082
+Hand is: 4 spades 6 diamonds
+ ratio: 0.447029
+Hand is: 4 spades 7 diamonds
+ ratio: 0.462466
+Hand is: 4 spades 8 diamonds
+ ratio: 0.480521
+Hand is: 4 spades 9 diamonds
+ ratio: 0.500813
+Hand is: 4 spades 10 diamonds
+ ratio: 0.532009
+Hand is: 4 spades 11 diamonds
+ ratio: 0.5638
+Hand is: 4 spades 12 diamonds
+ ratio: 0.598498
+Hand is: 5 spades 6 spades
+ ratio: 0.490919
+Hand is: 5 spades 7 spades
+ ratio: 0.503698
+Hand is: 5 spades 8 spades
+ ratio: 0.523211
+Hand is: 5 spades 9 spades
+ ratio: 0.541519
+Hand is: 5 spades 10 spades
+ ratio: 0.562773
+Hand is: 5 spades 11 spades
+ ratio: 0.595632
+Hand is: 5 spades 12 spades
+ ratio: 0.628422
+Hand is: 5 spades 0 hearts
+ ratio: 0.366238
+Hand is: 5 spades 1 hearts
+ ratio: 0.383282
+Hand is: 5 spades 2 hearts
+ ratio: 0.400452
+Hand is: 5 spades 3 hearts
+ ratio: 0.416328
+Hand is: 5 spades 4 hearts
+ ratio: 0.434027
+Hand is: 5 spades 5 hearts
+ ratio: 0.669121
+Hand is: 5 spades 6 hearts
+ ratio: 0.463221
+Hand is: 5 spades 7 hearts
+ ratio: 0.478025
+Hand is: 5 spades 8 hearts
+ ratio: 0.495219
+Hand is: 5 spades 9 hearts
+ ratio: 0.515423
+Hand is: 5 spades 10 hearts
+ ratio: 0.539091
+Hand is: 5 spades 11 hearts
+ ratio: 0.572318
+Hand is: 5 spades 12 hearts
+ ratio: 0.607599
+Hand is: 5 spades 0 diamonds
+ ratio: 0.366119
+Hand is: 5 spades 1 diamonds
+ ratio: 0.382333
+Hand is: 5 spades 2 diamonds
+ ratio: 0.400259
+Hand is: 5 spades 3 diamonds
+ ratio: 0.416775
+Hand is: 5 spades 4 diamonds
+ ratio: 0.434562
+Hand is: 5 spades 5 diamonds
+ ratio: 0.669619
+Hand is: 5 spades 6 diamonds
+ ratio: 0.462311
+Hand is: 5 spades 7 diamonds
+ ratio: 0.477947
+Hand is: 5 spades 8 diamonds
+ ratio: 0.494896
+Hand is: 5 spades 9 diamonds
+ ratio: 0.516223
+Hand is: 5 spades 10 diamonds
+ ratio: 0.538409
+Hand is: 5 spades 11 diamonds
+ ratio: 0.573045
+Hand is: 5 spades 12 diamonds
+ ratio: 0.607581
+Hand is: 6 spades 7 spades
+ ratio: 0.519496
+Hand is: 6 spades 8 spades
+ ratio: 0.536438
+Hand is: 6 spades 9 spades
+ ratio: 0.555173
+Hand is: 6 spades 10 spades
+ ratio: 0.577876
+Hand is: 6 spades 11 spades
+ ratio: 0.603298
+Hand is: 6 spades 12 spades
+ ratio: 0.637296
+Hand is: 6 spades 0 hearts
+ ratio: 0.388753
+Hand is: 6 spades 1 hearts
+ ratio: 0.394902
+Hand is: 6 spades 2 hearts
+ ratio: 0.412209
+Hand is: 6 spades 3 hearts
+ ratio: 0.428841
+Hand is: 6 spades 4 hearts
+ ratio: 0.446694
+Hand is: 6 spades 5 hearts
+ ratio: 0.462962
+Hand is: 6 spades 6 hearts
+ ratio: 0.699539
+Hand is: 6 spades 7 hearts
+ ratio: 0.492616
+Hand is: 6 spades 8 hearts
+ ratio: 0.510505
+Hand is: 6 spades 9 hearts
+ ratio: 0.530241
+Hand is: 6 spades 10 hearts
+ ratio: 0.554728
+Hand is: 6 spades 11 hearts
+ ratio: 0.580516
+Hand is: 6 spades 12 hearts
+ ratio: 0.617844
+Hand is: 6 spades 0 diamonds
+ ratio: 0.388367
+Hand is: 6 spades 1 diamonds
+ ratio: 0.394195
+Hand is: 6 spades 2 diamonds
+ ratio: 0.412352
+Hand is: 6 spades 3 diamonds
+ ratio: 0.429386
+Hand is: 6 spades 4 diamonds
+ ratio: 0.447786
+Hand is: 6 spades 5 diamonds
+ ratio: 0.462597
+Hand is: 6 spades 6 diamonds
+ ratio: 0.699639
+Hand is: 6 spades 7 diamonds
+ ratio: 0.493932
+Hand is: 6 spades 8 diamonds
+ ratio: 0.509814
+Hand is: 6 spades 9 diamonds
+ ratio: 0.53088
+Hand is: 6 spades 10 diamonds
+ ratio: 0.554521
+Hand is: 6 spades 11 diamonds
+ ratio: 0.580738
+Hand is: 6 spades 12 diamonds
+ ratio: 0.617796
+Hand is: 7 spades 8 spades
+ ratio: 0.550651
+Hand is: 7 spades 9 spades
+ ratio: 0.569673
+Hand is: 7 spades 10 spades
+ ratio: 0.59109
+Hand is: 7 spades 11 spades
+ ratio: 0.616603
+Hand is: 7 spades 12 spades
+ ratio: 0.644566
+Hand is: 7 spades 0 hearts
+ ratio: 0.410653
+Hand is: 7 spades 1 hearts
+ ratio: 0.419608
+Hand is: 7 spades 2 hearts
+ ratio: 0.427109
+Hand is: 7 spades 3 hearts
+ ratio: 0.445769
+Hand is: 7 spades 4 hearts
+ ratio: 0.462502
+Hand is: 7 spades 5 hearts
+ ratio: 0.477783
+Hand is: 7 spades 6 hearts
+ ratio: 0.492081
+Hand is: 7 spades 7 hearts
+ ratio: 0.728038
+Hand is: 7 spades 8 hearts
+ ratio: 0.525834
+Hand is: 7 spades 9 hearts
+ ratio: 0.545293
+Hand is: 7 spades 10 hearts
+ ratio: 0.56917
+Hand is: 7 spades 11 hearts
+ ratio: 0.595424
+Hand is: 7 spades 12 hearts
+ ratio: 0.625412
+Hand is: 7 spades 0 diamonds
+ ratio: 0.410851
+Hand is: 7 spades 1 diamonds
+ ratio: 0.419277
+Hand is: 7 spades 2 diamonds
+ ratio: 0.426427
+Hand is: 7 spades 3 diamonds
+ ratio: 0.444905
+Hand is: 7 spades 4 diamonds
+ ratio: 0.461867
+Hand is: 7 spades 5 diamonds
+ ratio: 0.47842
+Hand is: 7 spades 6 diamonds
+ ratio: 0.493257
+Hand is: 7 spades 7 diamonds
+ ratio: 0.728601
+Hand is: 7 spades 8 diamonds
+ ratio: 0.526379
+Hand is: 7 spades 9 diamonds
+ ratio: 0.545592
+Hand is: 7 spades 10 diamonds
+ ratio: 0.568753
+Hand is: 7 spades 11 diamonds
+ ratio: 0.595586
+Hand is: 7 spades 12 diamonds
+ ratio: 0.624607
+Hand is: 8 spades 9 spades
+ ratio: 0.584402
+Hand is: 8 spades 10 spades
+ ratio: 0.606052
+Hand is: 8 spades 11 spades
+ ratio: 0.63127
+Hand is: 8 spades 12 spades
+ ratio: 0.661116
+Hand is: 8 spades 0 hearts
+ ratio: 0.435007
+Hand is: 8 spades 1 hearts
+ ratio: 0.444236
+Hand is: 8 spades 2 hearts
+ ratio: 0.453309
+Hand is: 8 spades 3 hearts
+ ratio: 0.461462
+Hand is: 8 spades 4 hearts
+ ratio: 0.480863
+Hand is: 8 spades 5 hearts
+ ratio: 0.49555
+Hand is: 8 spades 6 hearts
+ ratio: 0.511063
+Hand is: 8 spades 7 hearts
+ ratio: 0.525771
+Hand is: 8 spades 8 hearts
+ ratio: 0.757922
+Hand is: 8 spades 9 hearts
+ ratio: 0.561425
+Hand is: 8 spades 10 hearts
+ ratio: 0.584456
+Hand is: 8 spades 11 hearts
+ ratio: 0.611062
+Hand is: 8 spades 12 hearts
+ ratio: 0.641412
+Hand is: 8 spades 0 diamonds
+ ratio: 0.435434
+Hand is: 8 spades 1 diamonds
+ ratio: 0.445257
+Hand is: 8 spades 2 diamonds
+ ratio: 0.454152
+Hand is: 8 spades 3 diamonds
+ ratio: 0.462541
+Hand is: 8 spades 4 diamonds
+ ratio: 0.480876
+Hand is: 8 spades 5 diamonds
+ ratio: 0.495089
+Hand is: 8 spades 6 diamonds
+ ratio: 0.509989
+Hand is: 8 spades 7 diamonds
+ ratio: 0.525405
+Hand is: 8 spades 8 diamonds
+ ratio: 0.758408
+Hand is: 8 spades 9 diamonds
+ ratio: 0.560535
+Hand is: 8 spades 10 diamonds
+ ratio: 0.584682
+Hand is: 8 spades 11 diamonds
+ ratio: 0.610828
+Hand is: 8 spades 12 diamonds
+ ratio: 0.641987
+Hand is: 9 spades 10 spades
+ ratio: 0.612846
+Hand is: 9 spades 11 spades
+ ratio: 0.637942
+Hand is: 9 spades 12 spades
+ ratio: 0.666401
+Hand is: 9 spades 0 hearts
+ ratio: 0.461538
+Hand is: 9 spades 1 hearts
+ ratio: 0.470026
+Hand is: 9 spades 2 hearts
+ ratio: 0.480506
+Hand is: 9 spades 3 hearts
+ ratio: 0.490959
+Hand is: 9 spades 4 hearts
+ ratio: 0.500444
+Hand is: 9 spades 5 hearts
+ ratio: 0.515113
+Hand is: 9 spades 6 hearts
+ ratio: 0.530367
+Hand is: 9 spades 7 hearts
+ ratio: 0.544254
+Hand is: 9 spades 8 hearts
+ ratio: 0.561158
+Hand is: 9 spades 9 hearts
+ ratio: 0.783769
+Hand is: 9 spades 10 hearts
+ ratio: 0.592397
+Hand is: 9 spades 11 hearts
+ ratio: 0.619184
+Hand is: 9 spades 12 hearts
+ ratio: 0.648345
+Hand is: 9 spades 0 diamonds
+ ratio: 0.461085
+Hand is: 9 spades 1 diamonds
+ ratio: 0.47108
+Hand is: 9 spades 2 diamonds
+ ratio: 0.480561
+Hand is: 9 spades 3 diamonds
+ ratio: 0.49092
+Hand is: 9 spades 4 diamonds
+ ratio: 0.500934
+Hand is: 9 spades 5 diamonds
+ ratio: 0.516325
+Hand is: 9 spades 6 diamonds
+ ratio: 0.53079
+Hand is: 9 spades 7 diamonds
+ ratio: 0.545812
+Hand is: 9 spades 8 diamonds
+ ratio: 0.561466
+Hand is: 9 spades 9 diamonds
+ ratio: 0.783103
+Hand is: 9 spades 10 diamonds
+ ratio: 0.592483
+Hand is: 9 spades 11 diamonds
+ ratio: 0.618365
+Hand is: 9 spades 12 diamonds
+ ratio: 0.649164
+Hand is: 10 spades 11 spades
+ ratio: 0.647221
+Hand is: 10 spades 12 spades
+ ratio: 0.675792
+Hand is: 10 spades 0 hearts
+ ratio: 0.49157
+Hand is: 10 spades 1 hearts
+ ratio: 0.49968
+Hand is: 10 spades 2 hearts
+ ratio: 0.509965
+Hand is: 10 spades 3 hearts
+ ratio: 0.520069
+Hand is: 10 spades 4 hearts
+ ratio: 0.53148
+Hand is: 10 spades 5 hearts
+ ratio: 0.538759
+Hand is: 10 spades 6 hearts
+ ratio: 0.554216
+Hand is: 10 spades 7 hearts
+ ratio: 0.568756
+Hand is: 10 spades 8 hearts
+ ratio: 0.584827
+Hand is: 10 spades 9 hearts
+ ratio: 0.5928
+Hand is: 10 spades 10 hearts
+ ratio: 0.81124
+Hand is: 10 spades 11 hearts
+ ratio: 0.626745
+Hand is: 10 spades 12 hearts
+ ratio: 0.656949
+Hand is: 10 spades 0 diamonds
+ ratio: 0.491959
+Hand is: 10 spades 1 diamonds
+ ratio: 0.500409
+Hand is: 10 spades 2 diamonds
+ ratio: 0.509069
+Hand is: 10 spades 3 diamonds
+ ratio: 0.520533
+Hand is: 10 spades 4 diamonds
+ ratio: 0.531222
+Hand is: 10 spades 5 diamonds
+ ratio: 0.539968
+Hand is: 10 spades 6 diamonds
+ ratio: 0.554273
+Hand is: 10 spades 7 diamonds
+ ratio: 0.568659
+Hand is: 10 spades 8 diamonds
+ ratio: 0.584114
+Hand is: 10 spades 9 diamonds
+ ratio: 0.59214
+Hand is: 10 spades 10 diamonds
+ ratio: 0.809838
+Hand is: 10 spades 11 diamonds
+ ratio: 0.626575
+Hand is: 10 spades 12 diamonds
+ ratio: 0.656897
+Hand is: 11 spades 12 spades
+ ratio: 0.683084
+Hand is: 11 spades 0 hearts
+ ratio: 0.523027
+Hand is: 11 spades 1 hearts
+ ratio: 0.532385
+Hand is: 11 spades 2 hearts
+ ratio: 0.540959
+Hand is: 11 spades 3 hearts
+ ratio: 0.551106
+Hand is: 11 spades 4 hearts
+ ratio: 0.56288
+Hand is: 11 spades 5 hearts
+ ratio: 0.572062
+Hand is: 11 spades 6 hearts
+ ratio: 0.581307
+Hand is: 11 spades 7 hearts
+ ratio: 0.595315
+Hand is: 11 spades 8 hearts
+ ratio: 0.610845
+Hand is: 11 spades 9 hearts
+ ratio: 0.618856
+Hand is: 11 spades 10 hearts
+ ratio: 0.627524
+Hand is: 11 spades 11 hearts
+ ratio: 0.837178
+Hand is: 11 spades 12 hearts
+ ratio: 0.666275
+Hand is: 11 spades 0 diamonds
+ ratio: 0.522891
+Hand is: 11 spades 1 diamonds
+ ratio: 0.531165
+Hand is: 11 spades 2 diamonds
+ ratio: 0.541985
+Hand is: 11 spades 3 diamonds
+ ratio: 0.553245
+Hand is: 11 spades 4 diamonds
+ ratio: 0.563763
+Hand is: 11 spades 5 diamonds
+ ratio: 0.572703
+Hand is: 11 spades 6 diamonds
+ ratio: 0.580524
+Hand is: 11 spades 7 diamonds
+ ratio: 0.59508
+Hand is: 11 spades 8 diamonds
+ ratio: 0.611051
+Hand is: 11 spades 9 diamonds
+ ratio: 0.619186
+Hand is: 11 spades 10 diamonds
+ ratio: 0.626093
+Hand is: 11 spades 11 diamonds
+ ratio: 0.837222
+Hand is: 11 spades 12 diamonds
+ ratio: 0.666401
+Hand is: 12 spades 0 hearts
+ ratio: 0.557539
+Hand is: 12 spades 1 hearts
+ ratio: 0.567757
+Hand is: 12 spades 2 hearts
+ ratio: 0.576074
+Hand is: 12 spades 3 hearts
+ ratio: 0.586829
+Hand is: 12 spades 4 hearts
+ ratio: 0.59858
+Hand is: 12 spades 5 hearts
+ ratio: 0.608179
+Hand is: 12 spades 6 hearts
+ ratio: 0.617415
+Hand is: 12 spades 7 hearts
+ ratio: 0.624851
+Hand is: 12 spades 8 hearts
+ ratio: 0.640438
+Hand is: 12 spades 9 hearts
+ ratio: 0.649508
+Hand is: 12 spades 10 hearts
+ ratio: 0.657406
+Hand is: 12 spades 11 hearts
+ ratio: 0.666273
+Hand is: 12 spades 12 hearts
+ ratio: 0.864805
+Hand is: 12 spades 0 diamonds
+ ratio: 0.558156
+Hand is: 12 spades 1 diamonds
+ ratio: 0.567253
+Hand is: 12 spades 2 diamonds
+ ratio: 0.576103
+Hand is: 12 spades 3 diamonds
+ ratio: 0.586707
+Hand is: 12 spades 4 diamonds
+ ratio: 0.597464
+Hand is: 12 spades 5 diamonds
+ ratio: 0.607356
+Hand is: 12 spades 6 diamonds
+ ratio: 0.617553
+Hand is: 12 spades 7 diamonds
+ ratio: 0.625452
+Hand is: 12 spades 8 diamonds
+ ratio: 0.64223
+Hand is: 12 spades 9 diamonds
+ ratio: 0.648613
+Hand is: 12 spades 10 diamonds
+ ratio: 0.657605
+Hand is: 12 spades 11 diamonds
+ ratio: 0.665697
+Hand is: 12 spades 12 diamonds
+ ratio: 0.864268
+Hand is: 0 hearts 1 hearts
+ ratio: 0.352245
+Hand is: 0 hearts 2 hearts
+ ratio: 0.36273
+Hand is: 0 hearts 3 hearts
+ ratio: 0.377911
+Hand is: 0 hearts 4 hearts
+ ratio: 0.39481
+Hand is: 0 hearts 5 hearts
+ ratio: 0.400526
+Hand is: 0 hearts 6 hearts
+ ratio: 0.42279
+Hand is: 0 hearts 7 hearts
+ ratio: 0.443534
+Hand is: 0 hearts 8 hearts
+ ratio: 0.466411
+Hand is: 0 hearts 9 hearts
+ ratio: 0.492238
+Hand is: 0 hearts 10 hearts
+ ratio: 0.518174
+Hand is: 0 hearts 11 hearts
+ ratio: 0.548852
+Hand is: 0 hearts 12 hearts
+ ratio: 0.582305
+Hand is: 0 hearts 0 diamonds
+ ratio: 0.516099
+Hand is: 0 hearts 1 diamonds
+ ratio: 0.313733
+Hand is: 0 hearts 2 diamonds
+ ratio: 0.327216
+Hand is: 0 hearts 3 diamonds
+ ratio: 0.341203
+Hand is: 0 hearts 4 diamonds
+ ratio: 0.359186
+Hand is: 0 hearts 5 diamonds
+ ratio: 0.365496
+Hand is: 0 hearts 6 diamonds
+ ratio: 0.388609
+Hand is: 0 hearts 7 diamonds
+ ratio: 0.410928
+Hand is: 0 hearts 8 diamonds
+ ratio: 0.435953
+Hand is: 0 hearts 9 diamonds
+ ratio: 0.461973
+Hand is: 0 hearts 10 diamonds
+ ratio: 0.49109
+Hand is: 0 hearts 11 diamonds
+ ratio: 0.523078
+Hand is: 0 hearts 12 diamonds
+ ratio: 0.558497
+Hand is: 1 hearts 2 hearts
+ ratio: 0.379285
+Hand is: 1 hearts 3 hearts
+ ratio: 0.393272
+Hand is: 1 hearts 4 hearts
+ ratio: 0.409275
+Hand is: 1 hearts 5 hearts
+ ratio: 0.417179
+Hand is: 1 hearts 6 hearts
+ ratio: 0.428225
+Hand is: 1 hearts 7 hearts
+ ratio: 0.451731
+Hand is: 1 hearts 8 hearts
+ ratio: 0.474477
+Hand is: 1 hearts 9 hearts
+ ratio: 0.499957
+Hand is: 1 hearts 10 hearts
+ ratio: 0.526375
+Hand is: 1 hearts 11 hearts
+ ratio: 0.557669
+Hand is: 1 hearts 12 hearts
+ ratio: 0.590183
+Hand is: 1 hearts 0 diamonds
+ ratio: 0.315121
+Hand is: 1 hearts 1 diamonds
+ ratio: 0.546972
+Hand is: 1 hearts 2 diamonds
+ ratio: 0.342598
+Hand is: 1 hearts 3 diamonds
+ ratio: 0.358341
+Hand is: 1 hearts 4 diamonds
+ ratio: 0.376369
+Hand is: 1 hearts 5 diamonds
+ ratio: 0.382898
+Hand is: 1 hearts 6 diamonds
+ ratio: 0.394541
+Hand is: 1 hearts 7 diamonds
+ ratio: 0.420069
+Hand is: 1 hearts 8 diamonds
+ ratio: 0.444481
+Hand is: 1 hearts 9 diamonds
+ ratio: 0.470762
+Hand is: 1 hearts 10 diamonds
+ ratio: 0.499576
+Hand is: 1 hearts 11 diamonds
+ ratio: 0.53195
+Hand is: 1 hearts 12 diamonds
+ ratio: 0.56732
+Hand is: 2 hearts 3 hearts
+ ratio: 0.408192
+Hand is: 2 hearts 4 hearts
+ ratio: 0.425497
+Hand is: 2 hearts 5 hearts
+ ratio: 0.43179
+Hand is: 2 hearts 6 hearts
+ ratio: 0.444972
+Hand is: 2 hearts 7 hearts
+ ratio: 0.457742
+Hand is: 2 hearts 8 hearts
+ ratio: 0.48374
+Hand is: 2 hearts 9 hearts
+ ratio: 0.509202
+Hand is: 2 hearts 10 hearts
+ ratio: 0.536103
+Hand is: 2 hearts 11 hearts
+ ratio: 0.566356
+Hand is: 2 hearts 12 hearts
+ ratio: 0.598531
+Hand is: 2 hearts 0 diamonds
+ ratio: 0.326659
+Hand is: 2 hearts 1 diamonds
+ ratio: 0.343023
+Hand is: 2 hearts 2 diamonds
+ ratio: 0.57715
+Hand is: 2 hearts 3 diamonds
+ ratio: 0.373654
+Hand is: 2 hearts 4 diamonds
+ ratio: 0.392859
+Hand is: 2 hearts 5 diamonds
+ ratio: 0.400837
+Hand is: 2 hearts 6 diamonds
+ ratio: 0.412594
+Hand is: 2 hearts 7 diamonds
+ ratio: 0.427739
+Hand is: 2 hearts 8 diamonds
+ ratio: 0.4541
+Hand is: 2 hearts 9 diamonds
+ ratio: 0.480161
+Hand is: 2 hearts 10 diamonds
+ ratio: 0.510217
+Hand is: 2 hearts 11 diamonds
+ ratio: 0.541397
+Hand is: 2 hearts 12 diamonds
+ ratio: 0.575186
+Hand is: 3 hearts 4 hearts
+ ratio: 0.441801
+Hand is: 3 hearts 5 hearts
+ ratio: 0.448833
+Hand is: 3 hearts 6 hearts
+ ratio: 0.460362
+Hand is: 3 hearts 7 hearts
+ ratio: 0.474078
+Hand is: 3 hearts 8 hearts
+ ratio: 0.491971
+Hand is: 3 hearts 9 hearts
+ ratio: 0.518439
+Hand is: 3 hearts 10 hearts
+ ratio: 0.546011
+Hand is: 3 hearts 11 hearts
+ ratio: 0.575745
+Hand is: 3 hearts 12 hearts
+ ratio: 0.609481
+Hand is: 3 hearts 0 diamonds
+ ratio: 0.34234
+Hand is: 3 hearts 1 diamonds
+ ratio: 0.357363
+Hand is: 3 hearts 2 diamonds
+ ratio: 0.374937
+Hand is: 3 hearts 3 diamonds
+ ratio: 0.607467
+Hand is: 3 hearts 4 diamonds
+ ratio: 0.409883
+Hand is: 3 hearts 5 diamonds
+ ratio: 0.416602
+Hand is: 3 hearts 6 diamonds
+ ratio: 0.428625
+Hand is: 3 hearts 7 diamonds
+ ratio: 0.445242
+Hand is: 3 hearts 8 diamonds
+ ratio: 0.462544
+Hand is: 3 hearts 9 diamonds
+ ratio: 0.49147
+Hand is: 3 hearts 10 diamonds
+ ratio: 0.519981
+Hand is: 3 hearts 11 diamonds
+ ratio: 0.550975
+Hand is: 3 hearts 12 diamonds
+ ratio: 0.587311
+Hand is: 4 hearts 5 hearts
+ ratio: 0.465002
+Hand is: 4 hearts 6 hearts
+ ratio: 0.477543
+Hand is: 4 hearts 7 hearts
+ ratio: 0.491243
+Hand is: 4 hearts 8 hearts
+ ratio: 0.509326
+Hand is: 4 hearts 9 hearts
+ ratio: 0.527763
+Hand is: 4 hearts 10 hearts
+ ratio: 0.556997
+Hand is: 4 hearts 11 hearts
+ ratio: 0.586556
+Hand is: 4 hearts 12 hearts
+ ratio: 0.619092
+Hand is: 4 hearts 0 diamonds
+ ratio: 0.358876
+Hand is: 4 hearts 1 diamonds
+ ratio: 0.375303
+Hand is: 4 hearts 2 diamonds
+ ratio: 0.391664
+Hand is: 4 hearts 3 diamonds
+ ratio: 0.409668
+Hand is: 4 hearts 4 diamonds
+ ratio: 0.640393
+Hand is: 4 hearts 5 diamonds
+ ratio: 0.434674
+Hand is: 4 hearts 6 diamonds
+ ratio: 0.447643
+Hand is: 4 hearts 7 diamonds
+ ratio: 0.462719
+Hand is: 4 hearts 8 diamonds
+ ratio: 0.482282
+Hand is: 4 hearts 9 diamonds
+ ratio: 0.500407
+Hand is: 4 hearts 10 diamonds
+ ratio: 0.531463
+Hand is: 4 hearts 11 diamonds
+ ratio: 0.56363
+Hand is: 4 hearts 12 diamonds
+ ratio: 0.597833
+Hand is: 5 hearts 6 hearts
+ ratio: 0.491404
+Hand is: 5 hearts 7 hearts
+ ratio: 0.505239
+Hand is: 5 hearts 8 hearts
+ ratio: 0.52224
+Hand is: 5 hearts 9 hearts
+ ratio: 0.542136
+Hand is: 5 hearts 10 hearts
+ ratio: 0.563801
+Hand is: 5 hearts 11 hearts
+ ratio: 0.595608
+Hand is: 5 hearts 12 hearts
+ ratio: 0.628098
+Hand is: 5 hearts 0 diamonds
+ ratio: 0.365765
+Hand is: 5 hearts 1 diamonds
+ ratio: 0.382706
+Hand is: 5 hearts 2 diamonds
+ ratio: 0.39907
+Hand is: 5 hearts 3 diamonds
+ ratio: 0.41722
+Hand is: 5 hearts 4 diamonds
+ ratio: 0.43491
+Hand is: 5 hearts 5 diamonds
+ ratio: 0.669851
+Hand is: 5 hearts 6 diamonds
+ ratio: 0.46276
+Hand is: 5 hearts 7 diamonds
+ ratio: 0.478049
+Hand is: 5 hearts 8 diamonds
+ ratio: 0.496004
+Hand is: 5 hearts 9 diamonds
+ ratio: 0.516421
+Hand is: 5 hearts 10 diamonds
+ ratio: 0.538756
+Hand is: 5 hearts 11 diamonds
+ ratio: 0.573252
+Hand is: 5 hearts 12 diamonds
+ ratio: 0.608175
+Hand is: 6 hearts 7 hearts
+ ratio: 0.51992
+Hand is: 6 hearts 8 hearts
+ ratio: 0.53707
+Hand is: 6 hearts 9 hearts
+ ratio: 0.554596
+Hand is: 6 hearts 10 hearts
+ ratio: 0.577718
+Hand is: 6 hearts 11 hearts
+ ratio: 0.602945
+Hand is: 6 hearts 12 hearts
+ ratio: 0.636799
+Hand is: 6 hearts 0 diamonds
+ ratio: 0.388543
+Hand is: 6 hearts 1 diamonds
+ ratio: 0.394816
+Hand is: 6 hearts 2 diamonds
+ ratio: 0.411623
+Hand is: 6 hearts 3 diamonds
+ ratio: 0.429748
+Hand is: 6 hearts 4 diamonds
+ ratio: 0.448208
+Hand is: 6 hearts 5 diamonds
+ ratio: 0.462446
+Hand is: 6 hearts 6 diamonds
+ ratio: 0.698805
+Hand is: 6 hearts 7 diamonds
+ ratio: 0.493254
+Hand is: 6 hearts 8 diamonds
+ ratio: 0.510627
+Hand is: 6 hearts 9 diamonds
+ ratio: 0.530676
+Hand is: 6 hearts 10 diamonds
+ ratio: 0.554482
+Hand is: 6 hearts 11 diamonds
+ ratio: 0.581062
+Hand is: 6 hearts 12 diamonds
+ ratio: 0.617046
+Hand is: 7 hearts 8 hearts
+ ratio: 0.550404
+Hand is: 7 hearts 9 hearts
+ ratio: 0.568308
+Hand is: 7 hearts 10 hearts
+ ratio: 0.590753
+Hand is: 7 hearts 11 hearts
+ ratio: 0.616551
+Hand is: 7 hearts 12 hearts
+ ratio: 0.645489
+Hand is: 7 hearts 0 diamonds
+ ratio: 0.411392
+Hand is: 7 hearts 1 diamonds
+ ratio: 0.419787
+Hand is: 7 hearts 2 diamonds
+ ratio: 0.426978
+Hand is: 7 hearts 3 diamonds
+ ratio: 0.445294
+Hand is: 7 hearts 4 diamonds
+ ratio: 0.462375
+Hand is: 7 hearts 5 diamonds
+ ratio: 0.476986
+Hand is: 7 hearts 6 diamonds
+ ratio: 0.493238
+Hand is: 7 hearts 7 diamonds
+ ratio: 0.728506
+Hand is: 7 hearts 8 diamonds
+ ratio: 0.525541
+Hand is: 7 hearts 9 diamonds
+ ratio: 0.544959
+Hand is: 7 hearts 10 diamonds
+ ratio: 0.56867
+Hand is: 7 hearts 11 diamonds
+ ratio: 0.596047
+Hand is: 7 hearts 12 diamonds
+ ratio: 0.625419
+Hand is: 8 hearts 9 hearts
+ ratio: 0.583016
+Hand is: 8 hearts 10 hearts
+ ratio: 0.605799
+Hand is: 8 hearts 11 hearts
+ ratio: 0.63107
+Hand is: 8 hearts 12 hearts
+ ratio: 0.660758
+Hand is: 8 hearts 0 diamonds
+ ratio: 0.435021
+Hand is: 8 hearts 1 diamonds
+ ratio: 0.44449
+Hand is: 8 hearts 2 diamonds
+ ratio: 0.454051
+Hand is: 8 hearts 3 diamonds
+ ratio: 0.463209
+Hand is: 8 hearts 4 diamonds
+ ratio: 0.481968
+Hand is: 8 hearts 5 diamonds
+ ratio: 0.495168
+Hand is: 8 hearts 6 diamonds
+ ratio: 0.510931
+Hand is: 8 hearts 7 diamonds
+ ratio: 0.524829
+Hand is: 8 hearts 8 diamonds
+ ratio: 0.758143
+Hand is: 8 hearts 9 diamonds
+ ratio: 0.559748
+Hand is: 8 hearts 10 diamonds
+ ratio: 0.584607
+Hand is: 8 hearts 11 diamonds
+ ratio: 0.611077
+Hand is: 8 hearts 12 diamonds
+ ratio: 0.642676
+Hand is: 9 hearts 10 hearts
+ ratio: 0.612399
+Hand is: 9 hearts 11 hearts
+ ratio: 0.638643
+Hand is: 9 hearts 12 hearts
+ ratio: 0.66696
+Hand is: 9 hearts 0 diamonds
+ ratio: 0.461457
+Hand is: 9 hearts 1 diamonds
+ ratio: 0.470678
+Hand is: 9 hearts 2 diamonds
+ ratio: 0.480984
+Hand is: 9 hearts 3 diamonds
+ ratio: 0.491531
+Hand is: 9 hearts 4 diamonds
+ ratio: 0.50116
+Hand is: 9 hearts 5 diamonds
+ ratio: 0.515389
+Hand is: 9 hearts 6 diamonds
+ ratio: 0.529896
+Hand is: 9 hearts 7 diamonds
+ ratio: 0.545049
+Hand is: 9 hearts 8 diamonds
+ ratio: 0.561189
+Hand is: 9 hearts 9 diamonds
+ ratio: 0.782907
+Hand is: 9 hearts 10 diamonds
+ ratio: 0.592283
+Hand is: 9 hearts 11 diamonds
+ ratio: 0.617859
+Hand is: 9 hearts 12 diamonds
+ ratio: 0.649788
+Hand is: 10 hearts 11 hearts
+ ratio: 0.645356
+Hand is: 10 hearts 12 hearts
+ ratio: 0.674871
+Hand is: 10 hearts 0 diamonds
+ ratio: 0.490844
+Hand is: 10 hearts 1 diamonds
+ ratio: 0.499371
+Hand is: 10 hearts 2 diamonds
+ ratio: 0.509529
+Hand is: 10 hearts 3 diamonds
+ ratio: 0.520126
+Hand is: 10 hearts 4 diamonds
+ ratio: 0.531845
+Hand is: 10 hearts 5 diamonds
+ ratio: 0.538564
+Hand is: 10 hearts 6 diamonds
+ ratio: 0.55457
+Hand is: 10 hearts 7 diamonds
+ ratio: 0.569489
+Hand is: 10 hearts 8 diamonds
+ ratio: 0.583534
+Hand is: 10 hearts 9 diamonds
+ ratio: 0.592024
+Hand is: 10 hearts 10 diamonds
+ ratio: 0.810766
+Hand is: 10 hearts 11 diamonds
+ ratio: 0.627328
+Hand is: 10 hearts 12 diamonds
+ ratio: 0.65679
+Hand is: 11 hearts 12 hearts
+ ratio: 0.682458
+Hand is: 11 hearts 0 diamonds
+ ratio: 0.523857
+Hand is: 11 hearts 1 diamonds
+ ratio: 0.531718
+Hand is: 11 hearts 2 diamonds
+ ratio: 0.542214
+Hand is: 11 hearts 3 diamonds
+ ratio: 0.553313
+Hand is: 11 hearts 4 diamonds
+ ratio: 0.563664
+Hand is: 11 hearts 5 diamonds
+ ratio: 0.572165
+Hand is: 11 hearts 6 diamonds
+ ratio: 0.581076
+Hand is: 11 hearts 7 diamonds
+ ratio: 0.595099
+Hand is: 11 hearts 8 diamonds
+ ratio: 0.61167
+Hand is: 11 hearts 9 diamonds
+ ratio: 0.619255
+Hand is: 11 hearts 10 diamonds
+ ratio: 0.626964
+Hand is: 11 hearts 11 diamonds
+ ratio: 0.836785
+Hand is: 11 hearts 12 diamonds
+ ratio: 0.665991
+Hand is: 12 hearts 0 diamonds
+ ratio: 0.55751
+Hand is: 12 hearts 1 diamonds
+ ratio: 0.566942
+Hand is: 12 hearts 2 diamonds
+ ratio: 0.576821
+Hand is: 12 hearts 3 diamonds
+ ratio: 0.586413
+Hand is: 12 hearts 4 diamonds
+ ratio: 0.598844
+Hand is: 12 hearts 5 diamonds
+ ratio: 0.607132
+Hand is: 12 hearts 6 diamonds
+ ratio: 0.617104
+Hand is: 12 hearts 7 diamonds
+ ratio: 0.624781
+Hand is: 12 hearts 8 diamonds
+ ratio: 0.642313
+Hand is: 12 hearts 9 diamonds
+ ratio: 0.648784
+Hand is: 12 hearts 10 diamonds
+ ratio: 0.656992
+Hand is: 12 hearts 11 diamonds
+ ratio: 0.666147
+Hand is: 12 hearts 12 diamonds
+ ratio: 0.864644
+Hand is: 0 diamonds 1 diamonds
+ ratio: 0.351366
+Hand is: 0 diamonds 2 diamonds
+ ratio: 0.363773
+Hand is: 0 diamonds 3 diamonds
+ ratio: 0.37747
+Hand is: 0 diamonds 4 diamonds
+ ratio: 0.393969
+Hand is: 0 diamonds 5 diamonds
+ ratio: 0.400414
+Hand is: 0 diamonds 6 diamonds
+ ratio: 0.421726
+Hand is: 0 diamonds 7 diamonds
+ ratio: 0.443045
+Hand is: 0 diamonds 8 diamonds
+ ratio: 0.46632
+Hand is: 0 diamonds 9 diamonds
+ ratio: 0.49093
+Hand is: 0 diamonds 10 diamonds
+ ratio: 0.518213
+Hand is: 0 diamonds 11 diamonds
+ ratio: 0.549241
+Hand is: 0 diamonds 12 diamonds
+ ratio: 0.582326
+Hand is: 1 diamonds 2 diamonds
+ ratio: 0.378057
+Hand is: 1 diamonds 3 diamonds
+ ratio: 0.393326
+Hand is: 1 diamonds 4 diamonds
+ ratio: 0.409003
+Hand is: 1 diamonds 5 diamonds
+ ratio: 0.415471
+Hand is: 1 diamonds 6 diamonds
+ ratio: 0.427892
+Hand is: 1 diamonds 7 diamonds
+ ratio: 0.450425
+Hand is: 1 diamonds 8 diamonds
+ ratio: 0.475653
+Hand is: 1 diamonds 9 diamonds
+ ratio: 0.49924
+Hand is: 1 diamonds 10 diamonds
+ ratio: 0.527017
+Hand is: 1 diamonds 11 diamonds
+ ratio: 0.558129
+Hand is: 1 diamonds 12 diamonds
+ ratio: 0.590652
+Hand is: 2 diamonds 3 diamonds
+ ratio: 0.408781
+Hand is: 2 diamonds 4 diamonds
+ ratio: 0.424843
+Hand is: 2 diamonds 5 diamonds
+ ratio: 0.431787
+Hand is: 2 diamonds 6 diamonds
+ ratio: 0.444441
+Hand is: 2 diamonds 7 diamonds
+ ratio: 0.458463
+Hand is: 2 diamonds 8 diamonds
+ ratio: 0.484481
+Hand is: 2 diamonds 9 diamonds
+ ratio: 0.508331
+Hand is: 2 diamonds 10 diamonds
+ ratio: 0.535989
+Hand is: 2 diamonds 11 diamonds
+ ratio: 0.566447
+Hand is: 2 diamonds 12 diamonds
+ ratio: 0.599433
+Hand is: 3 diamonds 4 diamonds
+ ratio: 0.441236
+Hand is: 3 diamonds 5 diamonds
+ ratio: 0.447628
+Hand is: 3 diamonds 6 diamonds
+ ratio: 0.460414
+Hand is: 3 diamonds 7 diamonds
+ ratio: 0.474389
+Hand is: 3 diamonds 8 diamonds
+ ratio: 0.490757
+Hand is: 3 diamonds 9 diamonds
+ ratio: 0.518624
+Hand is: 3 diamonds 10 diamonds
+ ratio: 0.54539
+Hand is: 3 diamonds 11 diamonds
+ ratio: 0.577508
+Hand is: 3 diamonds 12 diamonds
+ ratio: 0.608363
+Hand is: 4 diamonds 5 diamonds
+ ratio: 0.463184
+Hand is: 4 diamonds 6 diamonds
+ ratio: 0.476254
+Hand is: 4 diamonds 7 diamonds
+ ratio: 0.491646
+Hand is: 4 diamonds 8 diamonds
+ ratio: 0.508718
+Hand is: 4 diamonds 9 diamonds
+ ratio: 0.528163
+Hand is: 4 diamonds 10 diamonds
+ ratio: 0.557041
+Hand is: 4 diamonds 11 diamonds
+ ratio: 0.587399
+Hand is: 4 diamonds 12 diamonds
+ ratio: 0.6187
+Hand is: 5 diamonds 6 diamonds
+ ratio: 0.490828
+Hand is: 5 diamonds 7 diamonds
+ ratio: 0.506427
+Hand is: 5 diamonds 8 diamonds
+ ratio: 0.522558
+Hand is: 5 diamonds 9 diamonds
+ ratio: 0.541263
+Hand is: 5 diamonds 10 diamonds
+ ratio: 0.563364
+Hand is: 5 diamonds 11 diamonds
+ ratio: 0.595269
+Hand is: 5 diamonds 12 diamonds
+ ratio: 0.628162
+Hand is: 6 diamonds 7 diamonds
+ ratio: 0.519316
+Hand is: 6 diamonds 8 diamonds
+ ratio: 0.535925
+Hand is: 6 diamonds 9 diamonds
+ ratio: 0.555342
+Hand is: 6 diamonds 10 diamonds
+ ratio: 0.578205
+Hand is: 6 diamonds 11 diamonds
+ ratio: 0.60323
+Hand is: 6 diamonds 12 diamonds
+ ratio: 0.638177
+Hand is: 7 diamonds 8 diamonds
+ ratio: 0.550815
+Hand is: 7 diamonds 9 diamonds
+ ratio: 0.569075
+Hand is: 7 diamonds 10 diamonds
+ ratio: 0.5914
+Hand is: 7 diamonds 11 diamonds
+ ratio: 0.616949
+Hand is: 7 diamonds 12 diamonds
+ ratio: 0.645162
+Hand is: 8 diamonds 9 diamonds
+ ratio: 0.584272
+Hand is: 8 diamonds 10 diamonds
+ ratio: 0.605601
+Hand is: 8 diamonds 11 diamonds
+ ratio: 0.630614
+Hand is: 8 diamonds 12 diamonds
+ ratio: 0.660261
+Hand is: 9 diamonds 10 diamonds
+ ratio: 0.612306
+Hand is: 9 diamonds 11 diamonds
+ ratio: 0.637917
+Hand is: 9 diamonds 12 diamonds
+ ratio: 0.667241
+Hand is: 10 diamonds 11 diamonds
+ ratio: 0.646794
+Hand is: 10 diamonds 12 diamonds
+ ratio: 0.674381
+Hand is: 11 diamonds 12 diamonds
+ ratio: 0.683522

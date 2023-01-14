@@ -1,0 +1,391 @@
+
+bet_amounts
+[[30,][0,-1,][-1,][-1,]]
+[[30,][10,][0,][0,]]
+[[20,10,][10,][0,][0,]]
+
+
+
+pot_sizes
+90 pre-flop
+110 post
+110 turn
+110 river
+
+
+Jeevan you've initialized a new game. Time to set the parameters of the game
+number of players:3
+ 3
+blinds
+big blind:10
+ 10
+small blind:5
+ 5
+your starting position (relative to the dealer):1
+ 1
+your starting stack:50
+ 50
+
+now input the names and starting stack amounts of the players at the table (starting from your left and going around)name of the player:Ashish
+ Ashish
+starting stack amount:50
+ 50
+name of the player:Charles
+ Charles
+starting stack amount:50
+ 50
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 50
+Charles 50*
+Your cards:
+Cards on the table:
+Pot size:
+
+********************************************
+please input your cards
+card 1 value (jack = 11, queen = 12, king = 13, Ace = 14):5
+ 5
+suit(H for heart, D for diamond, S for spade, C for club) :h
+ h
+card 2 value (jack = 11, queen = 12, king = 13, Ace = 14):6
+ 6
+suit(H for heart, D for diamond, S for spade, C for club) :h
+ h
+
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 50
+Charles 50*
+Your cards: 5 hearts 6 hearts
+Cards on the table:
+Pot size:
+
+********************************************
+pre-flop
+betting phase (pre-flop so start with left of big blind)
+Charles bet amount (-1 if fold, must be at least 0):20
+ 20
+raise to 20
+Jeevan bet amount (-1 if fold, must be at least 20):-1
+ -1
+Ashish bet amount (-1 if fold, must be at least 20):20
+ 20
+bet amounts
+Jeevan situation 0[ -1 ]
+Ashish situation 0[ 20 ]
+Charles situation 0[ 20 ]
+flop cards
+card 1 value (jack = 11, queen = 12, king = 13):1
+ 1
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 2 value (jack = 11, queen = 12, king = 13):3
+ 3
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 3 value (jack = 11, queen = 12, king = 13):12
+ 12
+suit(H for heart, D for diamond, S for spade, C for club) :s
+ s
+
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 30
+Charles 30*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 3 clubs Queen spades
+Pot size: 40
+
+********************************************
+flop
+betting phase (post-flop so start with small blind)
+Ashish bet amount (-1 if fold, must be at least 0):0
+ 0
+Charles bet amount (-1 if fold, must be at least 0):15
+ 15
+raise to 15
+Ashish bet amount (-1 if fold, must add on at least 15):15
+ 15
+bet amounts
+Jeevan situation 0[ -1 ]
+situation 1[ -1 -1 ]
+Ashish situation 0[ 20 ]
+situation 1[ 0 15 ]
+Charles situation 0[ 20 ]
+situation 1[ 15 ]
+turn card
+card 1 value (jack = 11, queen = 12, king = 13):13
+ 13
+suit(H for heart, D for diamond, S for spade, C for club) :d
+ d
+
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 15
+Charles 15*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 3 clubs Queen spades King diamonds
+Pot size: 70
+
+********************************************
+turn
+betting phase (post-flop so start with small blind)
+Ashish bet amount (-1 if fold, must be at least 0):0
+ 0
+Charles bet amount (-1 if fold, must be at least 0):0
+ 0
+bet amounts
+Jeevan situation 0[ -1 ]
+situation 1[ -1 -1 ]
+situation 2[ -1 ]
+Ashish situation 0[ 20 ]
+situation 1[ 0 15 ]
+situation 2[ 0 ]
+Charles situation 0[ 20 ]
+situation 1[ 15 ]
+situation 2[ 0 ]
+river card
+card 1 value (jack = 11, queen = 12, king = 13):9
+ 9
+suit(H for heart, D for diamond, S for spade, C for club) :h
+ h
+
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 15
+Charles 15*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 3 clubs Queen spades King diamonds 9 hearts
+Pot size: 70
+
+********************************************
+river
+betting phase (post-flop so start with small blind)
+Ashish bet amount (-1 if fold, must be at least 0):10
+ 10
+raise to 10
+Charles bet amount (-1 if fold, must be at least 10):15
+ 15
+raise to 15
+Ashish bet amount (-1 if fold, must add on at least 5):5
+ 5
+bet amounts
+Jeevan situation 0[ -1 ]
+situation 1[ -1 -1 ]
+situation 2[ -1 ]
+situation 3[ -1 -1 ]
+Ashish situation 0[ 20 ]
+situation 1[ 0 15 ]
+situation 2[ 0 ]
+situation 3[ 10 5 ]
+Charles situation 0[ 20 ]
+situation 1[ 15 ]
+situation 2[ 0 ]
+situation 3[ 15 ]
+reached showdown
+who was the last to take aggressive action (they show first):Ashish
+ Ashish
+Ashish
+card 1 value (jack = 11, queen = 12, king = 13):4
+ 4
+suit(H for heart, D for diamond, S for spade, C for club) :d
+ d
+card 2 value (jack = 11, queen = 12, king = 13):5
+ 5
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+
+Charles
+did they muck the hand without showing (Y/N):N
+ N
+card 1 value (jack = 11, queen = 12, king = 13):13
+ 13
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 2 value (jack = 11, queen = 12, king = 13):13
+ 13
+suit(H for heart, D for diamond, S for spade, C for club) :s
+ s
+
+Ashish strength score: 0.931616
+Charles strength score: 3.85546
+winner is Charles they get the pot worth 100
+[[-1,][-1,-1,][-1,][-1,-1,]]
+[[20,][0,15,][0,][10,5,]]
+[[20,][15,][0,][15,]]
+
+40
+70
+70
+100
+
+29
+30
+12
+1
+23
+50
+33
+41
+3
+11
+24
+
+1
+0
+
+please input your cards
+card 1 value (jack = 11, queen = 12, king = 13, Ace = 14):5
+ 5
+suit(H for heart, D for diamond, S for spade, C for club) :h
+ h
+card 2 value (jack = 11, queen = 12, king = 13, Ace = 14):6
+ 6
+suit(H for heart, D for diamond, S for spade, C for club) :h
+ h
+
+name, stack size, (* for the dealer)
+Jeevan 50
+Ashish 50
+Charles 50*
+Your cards: 5 hearts 6 hearts
+Cards on the table:
+Pot size:
+
+********************************************
+pre-flop
+betting phase (pre-flop so start with left of big blind)
+Charles bet amount (-1 if fold, must be at least 0):1
+ 1
+raise to 1
+Jeevan bet amount (-1 if fold, must be at least 1):20
+ 20
+raise to 20
+Ashish bet amount (-1 if fold, must be at least 20):-1
+ -1
+Charles bet amount (-1 if fold, must add on at least 19):19
+ 19
+bet amounts
+Jeevan situation 0[ 20 ]
+Ashish situation 0[ -1 ]
+Charles situation 0[ 1 19 ]
+flop cards
+card 1 value (jack = 11, queen = 12, king = 13):1
+ 1
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 2 value (jack = 11, queen = 12, king = 13):2
+ 2
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 3 value (jack = 11, queen = 12, king = 13):3
+ 3
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+
+name, stack size, (* for the dealer)
+Jeevan 30
+Ashish 50
+Charles 30*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 2 clubs 3 clubs
+Pot size: 40
+
+********************************************
+flop
+betting phase (post-flop so start with small blind)
+Jeevan bet amount (-1 if fold, must be at least 0):0
+ 0
+Charles bet amount (-1 if fold, must be at least 0):15
+ 15
+raise to 15
+Jeevan bet amount (-1 if fold, must add on at least 15):15
+ 15
+bet amounts
+Jeevan situation 0[ 20 ]
+situation 1[ 0 15 ]
+Ashish situation 0[ -1 ]
+situation 1[ -1 -1 ]
+Charles situation 0[ 1 19 ]
+situation 1[ 15 ]
+turn card
+card 1 value (jack = 11, queen = 12, king = 13):9
+ 9
+suit(H for heart, D for diamond, S for spade, C for club) :s
+ s
+
+name, stack size, (* for the dealer)
+Jeevan 15
+Ashish 50
+Charles 15*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 2 clubs 3 clubs 9 spades
+Pot size: 70
+
+********************************************
+turn
+betting phase (post-flop so start with small blind)
+Jeevan bet amount (-1 if fold, must be at least 0):0
+ 0
+Charles bet amount (-1 if fold, must be at least 0):20
+ 20
+raise to 20
+Jeevan bet amount (-1 if fold, must add on at least 20):20
+ 20
+bet amounts
+Jeevan situation 0[ 20 ]
+situation 1[ 0 15 ]
+situation 2[ 0 20 ]
+Ashish situation 0[ -1 ]
+situation 1[ -1 -1 ]
+situation 2[ -1 -1 ]
+Charles situation 0[ 1 19 ]
+situation 1[ 15 ]
+situation 2[ 20 ]
+river card
+card 1 value (jack = 11, queen = 12, king = 13):12
+ 12
+suit(H for heart, D for diamond, S for spade, C for club) :s
+ s
+
+name, stack size, (* for the dealer)
+Jeevan -5
+Ashish 50
+Charles -5*
+Your cards: 5 hearts 6 hearts
+Cards on the table: Ace clubs 2 clubs 3 clubs 9 spades Queen spades
+Pot size: 110
+
+********************************************
+river
+betting phase (post-flop so start with small blind)
+Jeevan bet amount (-1 if fold, must be at least 0):0
+ 0
+Charles bet amount (-1 if fold, must be at least 0):0
+ 0
+bet amounts
+Jeevan situation 0[ 20 ]
+situation 1[ 0 15 ]
+situation 2[ 0 20 ]
+situation 3[ 0 ]
+Ashish situation 0[ -1 ]
+situation 1[ -1 -1 ]
+situation 2[ -1 -1 ]
+situation 3[ -1 ]
+Charles situation 0[ 1 19 ]
+situation 1[ 15 ]
+situation 2[ 20 ]
+situation 3[ 0 ]
+reached showdown
+who was the last to take aggressive action (they show first):Charles
+ Charles
+Charles
+card 1 value (jack = 11, queen = 12, king = 13):4
+ 4
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
+card 2 value (jack = 11, queen = 12, king = 13):5
+ 5
+suit(H for heart, D for diamond, S for spade, C for club) :c
+ c
