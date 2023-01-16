@@ -526,13 +526,13 @@ string Query::resolve_query(int option) {
             }
             switch (check) {
                 case 0://equal
-                    return "(NUM_PLAYERS = " + std::to_string(n_players) + ")";
+                    return "(N_PLAYERS = " + std::to_string(n_players) + ")";
                     break;
                 case 1://less
-                    return "(NUM_PLAYERS <= " + std::to_string(n_players) + ")";
+                    return "(N_PLAYERS <= " + std::to_string(n_players) + ")";
                     break;
                 case 2://more
-                    return "(NUM_PLAYERS >= " + std::to_string(n_players) + ")";
+                    return "(N_PLAYERS >= " + std::to_string(n_players) + ")";
                     break;
                 default:
                     cout << "PROBLEM WITH PLAYERS" << endl;
@@ -545,7 +545,7 @@ string Query::resolve_query(int option) {
                 cout << "what position would you like to be the cutoff: ";
                 cin >> input;
                 check = g.check_input_int(input);
-                if (check < 2) {
+                if (check < 0) {
                     cout << "invalid input" << endl;
                     continue;
                 }
@@ -631,7 +631,18 @@ string Query::resolve_query(int option) {
                 }
                 break;
             }
-            return "(FOLDED LIKE %," + std::to_string(check) + ",%)";
+            switch (check) {
+                case 0:
+                    return "(INSTR(FOLDED, ',0,')>0)";
+                    break;
+                case 1:
+                    return "(INSTR(FOLDED, ',0,')=0)";
+                    break;
+                default:
+                    cout << "PROBLEM WITH FOLDED" << endl;
+                    return NULL;
+            }
+            
             break;
         case 12:
             //Specific POV
