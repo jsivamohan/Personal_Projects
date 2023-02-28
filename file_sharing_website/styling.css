@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(115, 196, 226);
+}
+p.comment{
+    color : rgb(4, 12, 149);
+}
+p {
+    font-family: Georgia, Times New Roman;
+    font-size: large;
+    color : rgb(4, 12, 149);
+}
+h1{
+    color : rgb(255, 255, 255);
+
+    font-family: Georgia, Times New Roman;
+    font-style: oblique;
+    font-size: xx-large;
+}
+h2{
+    color : rgb(255, 255, 255);
+    font-family: Georgia, Times New Roman;
+    font-style: oblique;
+}
+h3{
+    color : rgb(4, 12, 149);
+    font-family: Georgia, Times New Roman;
+    font-style: italic;
+}
+
+
+
+input[type=submit],input[type=reset] {
+    background-color:  rgb(4, 12, 149); /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 15px;
+    box-shadow:
+        0 2px 4px darkslategray;
+  }
+
+  div.box {
+    width: 500px;
+    border: 5px solid rgb(4, 12, 149);
+    padding: 50px;
+    margin: 5px;
+    box-shadow: 0 2px 4px rgb(255, 255, 255);
+  }
