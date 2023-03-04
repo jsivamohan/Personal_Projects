@@ -7,3 +7,5 @@ Connect Four AI is a search based project that plays connect four
 Titanic is an overral Machine Learning project in python that uses various models in order to predict who would survive the wreck of the titanic based on a labeled training set provided
 
 A Maze Adventure game made in python where you explore through and maze and destroy mobs in order to get points and find your way to the next level.
+
+File Sharing website is a website developed with AWS that allows for users to view, upload, delete, search, and send files to other users.
