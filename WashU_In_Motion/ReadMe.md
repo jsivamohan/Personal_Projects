@@ -12,3 +12,6 @@ Graphs were created in order to visualize the dispersion of students in building
 ## Database
 Once all of the necessary information was collected into dataframes, it was written to a csv file which was then uploaded to databases stored in an AWS instance for future implementation on a public domain website.
 
+## File Information
+All of the txt files are CSV files that have the information scraped from the course [course listings](https://courses.wustl.edu/Semester/Listing.aspx) or written from the jupyter notebook file to be stored in a SQL database on my AWS instance. The actual code for the webscraper itself is stored in webstac_scraper.py. While the data analysis and visualization was done in a jupyter notebook called Webstac_info_analysis.ipynb.
+
